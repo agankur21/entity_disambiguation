@@ -1,0 +1,6892 @@
+skin tumour	D012878
+cancer	D009369
+colon cancers	D003110
+adenomatous polyposis coli	D011125
+APC	D011125
+colon and some other cancers	D003110|D009369
+skin tumours	D012878
+pilomatricomas	D018296
+pilomatricomas	D018296
+skin tumour	D012878
+tumour	D009369
+pilomatricomas	D018296
+tumours	D009369
+tumours	D009369
+hemochromatosis	D016399
+hemochromatosis	D006432
+Hereditary hemochromatosis	D006432
+HH	D006432
+autosomal recessive genetic disorder	D030342
+HH	D006432
+HH	D006432
+HH	D006432
+hemochromatosis	D006432
+HH	D006432
+HH	D006432
+HH	D006432
+hemochromatosis	D006432
+ovarian cancer	D010051
+breast cancer	D001943
+ovarian cancer	D010051
+ovarian cancer	D010051
+ovarian cancer	D010051
+ovarian cancer	D010051
+breast or ovarian cancer	D001943|D010051
+cancer	D009369
+cancer	D009369
+ovarian cancer	D010051
+ovarian cancer	D010051
+ovarian cancer	D010051
+adenomatous polyposis coli tumour	D011125
+adenomatous polyposis coli (APC) tumour	D011125
+colon carcinoma	D003110
+colon carcinoma	D003110
+cancer	D009369
+Familial deficiency of the seventh component of complement	OMIM:610102
+bacteremic infections due to Neisseria	D016870
+disseminated gonococcal infection	D004673
+meningococcal meningitis	D008585
+arthritis	D001168
+absence of functional C7	OMIM:610102
+Complete absence of C7	OMIM:610102
+meningococcal meningitis	D008585
+arthritis	D001168
+C7 deficiency	OMIM:610102
+C7 deficiency	OMIM:610102
+bacteremic neisseria infections	D016870
+oromandibular dystonia	D008538
+oromandibular dystonia	D008538
+dystonia	D004421
+dystonic	D004421
+dopa-responsive dystonia	C538007
+hereditary hemochromatosis	D006432
+autosomal recessive disease	D030342
+hereditary hemochromatosis	D006432
+hereditary hemochromatotic	D006432
+familial Mediterranean fever	D010505
+Familial Mediterranean fever	D010505
+FMF	D010505
+recessive disorder	D030342
+serositis	D012700
+synovitis	D013585
+FMF	D010505
+FMF	D010505
+FMF	D010505
+Autoimmune lymphoproliferative syndrome	D056735
+Autoimmune lymphoproliferative syndrome	D056735
+ALPS	D056735
+disorder of lymphocyte homeostasis and immunological tolerance	D008232|D007154
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+X-linked adrenoleukodystrophy	D000326
+X-linked adrenoleukodystrophy	D000326
+ALD	D000326
+inherited disease	D030342
+neurologic dysfunction	D009461
+adrenal insufficiency	D000309
+ALD	D000326
+childhood cerebral ALD	D000326
+neurologic deterioration	D009461
+cerebral ALD	D000326
+neurologic dysfunction	D009461
+adrenomyeloneuropathy	D000326
+Addison disease	D000224
+ALD	D000326
+childhood cerebral ALD	D000326
+cerebral ALD	D000326
+adrenomyeloneuropathy	D000326
+ALD	D000326
+cerebral ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+Absence of the seventh component of complement	OMIM:610102
+chronic meningococcemia	D008589
+vasculitis	D014657
+fever	D005334
+arthritis	D001168
+cutaneous vasculitis	D018366
+chronic meningococcemia	D008589
+deficiency of the seventh component of complement	OMIM:610102
+deficiency of C7	OMIM:610102
+Chronic neisserial infection	D016870
+C7 deficiency	OMIM:610102
+cutaneous vasculitis	D018366
+dihydropyrimidine dehydrogenase deficiency	D054067
+Dihydropyrimidine dehydrogenase (DPD) deficiency	D054067
+autosomal recessive disease	D030342
+DPD deficiency	D054067
+deficiency of DPD	D054067
+DPD	D054067
+convulsive disorders	D004829
+motor retardation	D019957
+mental retardation	D008607
+clinical abnormalities	D013568
+DPD deficiency	D054067
+glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+G6PD deficiency	D005955
+glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+Homozygous hypobetalipoproteinemia	D006995
+abetalipoproproteinemia	D000012
+homozygous hypobetalipoproteinemia	D006995
+HBL	D006995
+HBL	D006995
+HBL	D006995
+HBL	D006995
+HBL	D006995
+abetalipoproteinemia	D000012
+hemochromatosis	D006432
+Hereditary hemochromatosis	D006432
+hemochromatosis	D006432
+excess iron deposits	D019190
+hemochromatosis	D006432
+hepatic fibrosis	D008103
+excessive alcohol consumption	D000435
+cirrhosis	D008103
+microvesicular steatosis	D005234
+hereditary hemochromatosis	D006432
+hepatomegaly	D006529
+skin pigmentation	D010859
+arthritis	D001168
+hemochromatosis	D006432
+copper toxicosis	OMIM:215600
+hepatic copper accumulation	D008107
+inherited disorder	D030342
+hepatic copper accumulation	D008107
+Wilson disease	D006527
+WD	D006527
+copper overload	D008107
+non-Indian childhood cirrhosis	OMIM:215600
+copper toxicosis	OMIM:215600
+CT	OMIM:215600
+liver disease	D008107
+WD	D006527
+CT	OMIM:215600
+CT	OMIM:215600
+WD	D006527
+CT	OMIM:215600
+CT	OMIM:215600
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+rare, sex-linked recessive, dysmyelinating disease of the central nervous system	D020279+D035583
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+enzyme deficiency	D008661
+glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+chronic nonspherocytic hemolytic anemia	D000746
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+diastrophic dysplasia	C536170
+chondrodysplasias	D010009
+diastrophic dysplasia	C536170
+platyspondyly	D013122
+metatropic dysplasia	C537356
+Pelizaeus-Merzbacher disease	OMIM:312080
+X-linked Pelizaeus-Merzbacher disease	OMIM:312080
+PMD	OMIM:312080
+PMD	OMIM:312080
+Gardner syndrome	D005736
+Gardner syndrome	D005736
+GS	D005736
+mental retardation	D008607
+craniofacial abnormalities	D019465
+adenomatous polyposis coli	D011125
+GS	D005736
+familial polyposis coli	D011125
+FPC	D011125
+APC	D011125
+FAP	D011125
+APC	D011125
+colorectal cancer	D015179
+colorectal cancer	D015179
+familial adenomatous polyposis	D011125
+FAP	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+APC	D011125
+APC	D011125
+colorectal cancer	D015179
+APC	D011125
+FAP	D011125
+colorectal cancer	D015179
+FAP	D011125
+colorectal cancer	D015179
+FAP	D011125
+FAP	D011125
+colorectal cancer	D015179
+Type I human complement C2 deficiency	OMIM:217000
+deficiency of complement protein C2	OMIM:217000
+Type I C2 deficiency	OMIM:217000
+C2-deficient	OMIM:217000
+type I C2 deficiency	OMIM:217000
+type I C2-deficient	OMIM:217000
+type II C2-deficient	OMIM:217000
+type I human complement C2 deficiency	OMIM:217000
+C2-deficient	OMIM:217000
+type II C2 deficiency	OMIM:217000
+genetic defect	D030342
+FMR1 deficiency	OMIM:300624
+Fragile X syndrome	D005600
+mental retardation	D008607
+macroorchidism	D005600
+fragile X syndrome	D005600
+fragile X	D005600
+anxiety	D001008
+fragile X syndrome	D005600
+Fabry disease	D000795
+Fabry disease	D000795
+FD	D000795
+angiokeratoma corporis diffusum	D000795
+X-linked inborn error of glycosphingolipid metabolism	D008052
+angiokeratoma	D000794
+severe acroparesthesia	D010292
+renal failure	D051437
+vasculopathy of the heart and brain	D014652
+alpha-galactosidase deficiency	D000795
+alpha-Gal A deficiency	D000795
+FD	D000795
+bipolar disorder	D001714
+bipolar affective disorder	D001714
+BPAD	D001714
+BPAD	D001714
+BPAD	D001714
+breast cancer	D001943
+breast and ovarian cancer	D001943|D010051
+breast cancer	D001943
+breast cancer	D001943
+breast cancer	D001943
+breast cancer	D001943
+breast or ovarian cancer	D001943|D010051
+breast cancer	D001943
+breast or ovarian cancer	D001943|D010051
+X-linked retinoschisis	D041441
+X-linked retinoschisis	D041441
+visual deterioration	C531604
+retinoblastoma	D012175
+X-linked retinoschisis	D041441
+retinal dystrophy	D058499
+CHM	D015794
+choroideremia	D015794
+Choroideremia	D015794
+CHM	D015794
+X-linked progressive degeneration of the choroid and retina	D015785
+CHM	D015794
+CHM	D015794
+CHM	D015794
+CHM	D015794
+CHM	D015794
+X-linked adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+adolescent ALD	D000326
+ALD	D000326
+cerebral ALD	D000326
+adrenomyeloneuropathy	D000326
+Addison only	D000224
+ALD	D000326
+von Hippel-Lindau disease	D006623
+sporadic cerebellar haemangioblastoma	D018325
+renal cell carcinoma	D002292
+unilateral and bilateral retinoblastoma	D012175
+hereditary tumours	D009386
+sporadic tumours	D009369
+sporadic renal cell carcinoma	D002292
+renal cell carcinoma	D002292
+cerebellar haemangioblastoma	D018325
+von Hippel-Lindau (VHL) disease	D006623
+sporadic renal cell carcinoma	D002292
+sporadic cerebellar haemangioblastoma	D018325
+renal cell carcinoma	D002292
+cerebellar haemangioblastoma	D018325
+VHL disease	D006623
+sporadic renal cell carcinoma	D002292
+cerebellar haemangioblastoma	D018325
+VHL	D006623
+tumour	D009369
+Sporadic cerebellar haemangioblastoma	D018325
+renal cell carcinoma	D002292
+VHL	D006623
+Lowe syndrome	D009800
+oculocerebrorenal syndrome of Lowe	D009800
+OCRL	D009800
+X-linked disorder	D040181
+abnormalities of eyes, nervous system, and kidneys	D000015
+OCRL	D009800
+Lowe syndrome	D009800
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+muscular injury	D014947
+muscular dystrophy	D009136
+DMD	D020388
+phenylalanine hydroxylase deficiency	OMIM:261600
+Phenylketonuria	D010661
+PKU	D010661
+mild hyperphenylalaninemia	D010661
+MHP	D010661
+allelic disorders	D030342
+PAH deficiency	OMIM:261600
+PAH deficiency	OMIM:261600
+hyperphenylalaninemia	D010661
+metabolic disorder	D008659
+normotriglyceridemic abetalipoproteinemia	D000012
+normotriglyceridemic abetalipoproteinemia	D000012
+homozygous hypobetalipoproteinemia	D006995
+von Willebrand disease type B	D014842
+von Willebrand	D014842
+von Willebrand	D014842
+von Willebrand disease type B	D014842
+von Willebrand disease type B	D014842
+von Willebrand disease type B	D014842
+myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+breast-ovarian cancer	D061325
+breast-ovarian cancer	D061325
+breast and ovarian cancer	D061325
+male breast cancer	D018567
+breast-ovarian syndrome	D061325
+autosomal recessive disease glucose/galactose malabsorption	OMIM:606824
+genetic diseases	D030342
+Tay-Sachs	D013661
+Deficiency of beta-hexosaminidase A	D013661
+Tay-Sachs disease	D013661
+deficient in Hex A	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+Canavan disease	D017825
+Canavan disease	D017825
+spongy degeneration of the brain	D017825
+leukodystrophy	D007966
+deficiency of aspartoacylase	D017825
+Canavan disease	D017825
+Canavan disease	D017825
+Maternal disomy	D024182
+Prader-Willi syndrome	D011218
+Maternal uniparental disomy (UPD) for chromosome 15	C538037
+Prader-Willi syndrome	D011218
+PWS	D011218
+maternal disomy 15	C538037
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+Maternal disomy	D024182
+Uniparental disomy	D024182
+PWS	D011218
+maternal UPD 15	C538037
+PWS	D011218
+Duarte and Los Angeles variant galactosemia	D005693
+Duarte enzyme variant of galactosemia	D005693
+LA variant of galactosemia	D005693
+Adrenoleukodystrophy	D000326
+Adrenoleukodystrophy	D000326
+ALD	D000326
+progressive central demyelination	D003711
+adrenal cortical insufficiency	D000309
+ALD	D000326
+Zellwegers cerebrohepatorenal syndrome	D015211
+peroxisomal disorders	D018901
+ALD	D000326
+ALD	D000326
+adrenomyeloneuropathy	D000326
+Neonatal ALD	OMIM:202370
+Zellwegers syndrome	D015211
+ALD	D000326
+Machado-Joseph disease	D017827
+trinucleotide repeat disorders	D030342
+Machado-Joseph disease	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+DMD	D020388
+DMD	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+alkaptonuria	D000474
+AKU	D000474
+Alkaptonuria	D000474
+AKU	D000474
+autosomal recessive disorder	D030342
+Ochronosis	D009794
+ochronotic arthropathy	D009794+D007592
+alkaptonuria	D000474
+alkaptonuria	D000474
+myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+autosomal dominant disease	D030342
+infertility	D007246
+congenital myotonic dystrophy	D009223
+CDM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+APC	D011125
+familial adenomatous polyposis	D011125
+gastric cancer	D013274
+gastric cancer	D013274
+cancer	D009369
+gastric cancers	D013274
+adenomatous polyposis coli	D011125
+APC	D011125
+adenomatous polyps in the colon	D018256
+gastric cancer	D013274
+gastric cancers	D013274
+APC	D011125
+tumors	D009369
+tumors	D009369
+APC	D011125
+gastric cancers	D013274
+C9 deficiency	OMIM:613825
+Deficiency of the ninth component of human complement	OMIM:613825
+complement deficiency	D007153
+C9 deficiency	OMIM:613825
+C9 deficiency	OMIM:613825
+C9 deficiency	OMIM:613825
+Lesch-Nyhan	D007926
+Lesch-Nyhan syndrome	D007926
+hypoxanthine phosphoribosyltransferase [HPRT] deficiency	D007926
+X-linked Emery-Dreifuss muscular dystrophy	D020389
+Emery-Dreifuss muscular dystrophy	D020389
+EDMD	D020389
+X-linked recessive muscular dystrophy	D040181+D009136
+contractures of the elbows, Achilles tendons and spine	D003286
+muscle wasting	D009133
+weakness	D018908
+cardiomyopathy	D009202
+cardiac conduction defects	OMIM:115080
+EDMD	D020389
+EDMD	D020389
+EDMD	D020389
+elbow contractures	D003286
+ankle contractures	D003286
+upper limb weakness	D018908
+lower limb weakness	D018908
+cardiac involvement	D006331
+EDMD	D020389
+sporadic breast cancer	D001943
+familial breast and ovarian cancer	D061325
+non-hereditary (sporadic) breast cancer	D001943
+carcinoma in situ	D002278
+invasive cancer	D009362
+breast cancer	D001943
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+PMD	OMIM:312080
+PMD	OMIM:312080
+PMD	OMIM:312080
+genetic disorders	D030342
+inherited human disorder	D030342
+fish-eye disease	D007863
+fish-eye disease	D007863
+FED	D007863
+FED	D007863
+FED	D007863
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+GM1-gangliosidosis	D016537
+cardiac involvement	D006331
+GM1-gangliosidosis	D016537
+lysosomal storage disorder	D016464
+deficiency of acid beta-galactosidase	D016537
+cardiac involvement	D006331
+GM1-gangliosidosis	D016537
+cardiac involvement	D006331
+cardiac abnormalities	D018376
+genetic lesions	D020022
+cardiomyopathy	D009202
+familial Mediterranean fever	D010505
+familial Mediterranean fever	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+deficient in Six5	D030342
+cataracts	D002386
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+dominantly inherited disease	D030342
+muscle dystrophy	D009136
+myotonia	D009222
+cataracts	D002386
+cardiac conduction defects	OMIM:115080
+myopathy	D009135
+cardiac conduction abnormalities	D006327
+myotonic dystrophy	D009223
+myotonia	D009222
+cataracts	D002386
+SIX5 deficiency	D030342
+myotonic dystrophy	D009223
+abnormalities of skeletal muscle function	D009139
+lenticular opacities	D002386
+SIX5 deficiency	D030342
+cataract	D002386
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+multigenic disorder	D030342
+familial adenomatous polyposis	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+familial adenomatous polyposis	D011125
+FAP	D011125
+APC	D011125
+APC	D011125
+FAP	D011125
+APC	D011125
+FAP	D011125
+APC	D011125
+APC	D011125
+FAP	D011125
+deficiency of C5	OMIM:609536
+discoid lupus erythematosus	D008179
+discoid lupus erythematosus	D008179
+Hypocomplementemia	D007153
+deficiency of C5	OMIM:609536
+discoid lupus erythematosus	D008179
+C5 deficiency	OMIM:609536
+familial mediterranean fever	D010505
+Familial Mediterranean fever	D010505
+FMF	D010505
+recessive disorder	D030342
+fever	D005334
+serositis	D012700
+synovitis	D013585
+FMF	D010505
+FMF	D010505
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+WAS	D014923
+thrombocytopenic	D013921
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+thrombocytopenia	D013921
+WAS	D014923
+WAS	D014923
+tumour	D009369
+inherited breast and ovarian cancers	D061325
+breast cancer	D001943
+Ataxia-telangiectasia	D001260
+breast cancer	D001943
+ataxia-telangiectasia	D001260
+A-T	D001260
+A-T	D001260
+hereditary breast cancer	D061325
+breast cancer	D001943
+hereditary breast cancer	D061325
+hereditary breast cancer	D061325
+hereditary breast cancers	D061325
+hereditary breast or ovarian cancer	D061325
+breast cancer	D001943
+breast or ovarian cancer	D001943|D010051
+hereditary cancer	D009386
+hereditary breast cancer	D061325
+hereditary breast cancer	D061325
+Spinocerebellar ataxia type-3	D017827
+Machado-Joseph disease	D017827
+SCA3	D017827
+MJD	D017827
+CAG/polyglutamine repeat disease	D030342
+polyglutamine disease	D030342
+neuronal dysfunction	D009461
+SCA3	D017827
+MJD	D017827
+SCA3	D017827
+MJD	D017827
+urogenital abnormalities	D014564
+Denys-Drash syndrome	D030321
+Wilms tumor	D009396
+WT1 dysfunction	D030342
+neoplastic	D009369
+Wilms tumor	D009396
+mesothelioma	D008654
+leukemias	D007938
+breast cancer	D001943
+nonneoplastic	D004194
+glomerulosclerosis	D005921
+Denys-Drash syndrome	D030321
+DDS	D030321
+DDS	D030321
+nephropathy	D007674
+mesangial sclerosis	C537346
+pseudohermaphroditism	D012734
+Wilms tumor	D009396
+WT	D009396
+DDS	D030321
+mesangial sclerosis	C537346
+DDS	D030321
+Male genital defects	D005832
+Wilms tumor	D009396
+Wt1 dysfunction	D030342
+Wilms tumorigenesis	D009396
+WT	D009396
+glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+favism	D005236
+hemolytic anemia	D000743
+deficient G6PD	D005955
+G6PD deficiency	D005955
+Favism	D005236
+favism	D005236
+X-linked Emery-Dreifuss muscular dystrophy	D020389
+contractures of the Achilles tendons	D003286
+contractures of the elbows	D003286
+cardiac abnormality	D018376
+X-linked Emery-Dreifuss muscular dystrophy	D020389
+EDMD	D020389
+EDMD	D020389
+sudden cardiac death	D016757
+centrocytic lymphoma	D008223
+centrocytic lymphoma	D008223
+B-cell neoplasms	D016393
+parathyroid adenomas	D010282
+breast and squamous cell neoplasms	D001943|D018307
+centrocytic lymphomas	D008223
+noncentrocytic lymphomas	D008223
+centrocytic lymphomas	D008223
+B-cell neoplasms	D016393
+centrocytic lymphoma	D008223
+Adrenoleukodystrophy	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+Glucose-6-phosphate dehydrogenase deficiency	D005955
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) -deficient	D005955
+malaria	D008288
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+thalassemia	D013789
+G6PD deficiency	D005955
+malarious	D008288
+malaria	D008288
+fatal hemolysis	D006461
+unilateral retinoblastoma	D012175
+unilateral retinoblastoma	D012175
+tumor	D009369
+retinoblastoma	D012175
+unilateral retinoblastoma	D012175
+tumor	D009369
+tumors	D009369
+tumors	D009369
+tumors	D009369
+tumors	D009369
+tumors	D009369
+tumors	D009369
+tumors	D009369
+bilateral retinoblastoma	D012175
+retinoblastoma	D012175
+Heterozygous C2 deficiency	OMIM:217000
+angioedema	D000799
+myasthenia gravis	D009157
+systemic lupus erythematosus	D008180
+myasthenia gravis	D009157
+systemic lupus erythematosus	D008180
+angioedema	D000799
+complement factor 2 (C2) deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+autoimmune disorders	D001327
+C3 deficiency	OMIM:613779
+glomerulonephritis	D005921
+deficiency of the third component of complement	OMIM:613779
+bacterial infections	D001424
+pneumonia	D011014
+mesangiopathic glomerulonephritis	D005921
+C3 deficiency	OMIM:613779
+immune-complex disease	D007105
+pyogenic infections	D007239
+C3 deficiency	OMIM:613779
+tumor	D009369
+breast and ovarian cancers	D001943|D010051
+tumors	D009369
+Lesch-Nyhan syndrome	D007926
+HPRT enzyme deficiency	D007926
+Lesch-Nyhan syndrome	D007926
+tumor	D009369
+familial breast and ovarian cancers	D061325
+breast cancer	D001943
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+Myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+enzyme deficiency	D008661
+haemolysis	D006461
+G6PD deficiency	D005955
+alveolar rhabdomyosarcoma	D018232
+hematopoietic and solid tumors	D019337
+solid tumor	D009369
+alveolar rhabdomyosarcoma	D018232
+alveolar rhabdomyosarcoma	D018232
+breast cancer	D001943
+autosomal recessive disorder	D030342
+ataxia-telangiectasia	D001260
+A-T	D001260
+breast cancer	D001943
+breast cancer	D001943
+sporadic breast cancer	D001943
+breast cancer	D001943
+Autoimmune lymphoproliferative syndrome	D056735
+ALPS	D056735
+Autoimmune lymphoproliferative syndrome	D056735
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+congenital eye malformations	D005124
+aniridia	D015783
+congenital absence of the iris	D015783
+malformation of the eye	D005124
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+ectopia pupillae	C536185
+displaced pupils	C536185
+congenital nystagmus	D020417
+searching gaze	D020417
+aniridia	D015783
+PAX6 -related disease	OMIM:106210
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+genetic diseases	D030342
+DM	D009223
+DM	D009223
+galactosemia	D005693
+galactosemia	D005693
+classic galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+inherited neuromuscular disease	D009468+D030342
+genetic defect	D030342
+myotonic dystrophy	D009223
+DM	D009223
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+thymomas	D013945
+ataxia-telangiectasia	D001260
+van der Woude syndrome	C536528
+cleft palate	D002972
+van der Woude syndrome	C536528
+VWS	C536528
+pits and/or sinuses of the lower lip	D008047
+cleft lip/palate	D002971|D002972
+CL/P	D002971|D002972
+cleft palate	D002972
+CP	D002972
+bifid uvula	C531732
+hypodontia	D000848
+H	D000848
+VWS	C536528
+CL/P	D002971|D002972
+CP	D002972
+CP	D002972
+VWS	C536528
+clefts	D002971|D002972
+VWS	C536528
+CP	D002972
+VWS	C536528
+VWS	C536528
+CP	D002972
+VWS	C536528
+ataxia-telangiectasia	D001260
+leukemia	D007938
+lymphoma	D008223
+breast cancer	D001943
+ataxia-telangiectasia	D001260
+A-T	D001260
+cerebellar degeneration	D013132
+A-T	D001260
+breast cancer	D001943
+A-T	D001260
+cerebellar degeneration	D013132
+A-T	D001260
+leukemia	D007938
+lymphoma	D008223
+Hodgkin lymphoma	D006689
+A-T	D001260
+breast/ovarian cancer	D061325
+breast/ovarian cancer	D061325
+breast cancer	D001943
+breast-ovarian cancer	D061325
+breast/ovarian cancer	D061325
+enzyme deficiency	D008661
+hemolytic anemia	D000743
+Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) deficiency	D005955
+genetic abnormality	D030342
+enzyme deficiency	D008661
+favism	D005236
+neonatal jaundice	D007567
+hemolytic anemia	D000743
+G6PD deficiency	D005955
+CETP deficiency	OMIM:143470
+CETP deficiency	OMIM:143470
+hypercholesterolemia	D006937
+CETP deficiency	OMIM:143470
+CETP deficiency	OMIM:143470
+premature atherosclerosis	D050197
+CETP deficiency	OMIM:143470
+CETP deficiency	OMIM:143470
+deficiency of the seventh component of complement	OMIM:610102
+meningococcal infection	D008589
+Terminal complement component deficiency	D007153
+meningococcal infection	D008589
+meningococcal infection	D008589
+terminal complement deficiency	D007153
+completely deficient in the seventh component of complement	OMIM:610102
+C7 deficiency	OMIM:610102
+C7 deficient	OMIM:610102
+meningococcal infection	D008589
+meningococcal	D008589
+complement deficient	D007153
+muscular dystrophy	D009136
+Duchenne or Becker muscular dystrophy	D020388|C537666
+DMD	D020388
+BMD	C537666
+DMD	D020388
+BMD	C537666
+DMD	D020388
+DMD	D020388
+retinoblastoma	D012175
+hereditary retinoblastoma	D012175
+retinoblastoma	D012175
+hereditary retinoblastoma	D012175
+retinoblastoma	D012175
+hereditary ovarian cancer	D061325
+Hereditary Ovarian Cancer	D061325
+ovarian cancer	D010051
+ovarian cancer	D010051
+hereditary forms of ovarian cancer	D061325
+hereditary ovarian cancer	D061325
+ovarian cancer	D010051
+ovarian cancer	D010051
+ovarian cancer	D010051
+breast and ovarian cancer	D061325
+breast cancer	D001943
+breast cancer	D001943
+breast/ovarian cancer	D061325
+cancer	D009369
+ovarian cancer	D010051
+breast cancer	D001943
+breast cancer	D001943
+breast cancer	D001943
+breast/ovarian cancer	D061325
+PDS	C536648
+Pendred syndrome	C536648
+non-syndromic hearing loss	C537845
+DFNB4	OMIM:600791
+PDS	C536648
+Pendred syndrome	C536648
+autosomal recessive non-syndromic hearing loss	OMIM:600791
+DFNB4	OMIM:600791
+non-syndromic hearing loss	C537845
+PDS	C536648
+PDS	C536648
+Pendred syndrome	C536648
+PDS	C536648
+non-syndromic hearing loss	C537845
+Pendred syndrome	C536648
+PDS	C536648
+non-syndromic hearing loss	C537845
+Pendred syndrome	C536648
+DFNB4	OMIM:600791
+goiter	D006042
+DFNB4	OMIM:600791
+glucose-6-phosphate dehydrogenase deficiency	D005955
+G6PD deficiency	D005955
+metachromatic leukodystrophy	D007966
+metachromatic leukodystrophy	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+autoimmune lymphoproliferative syndrome, type Ia	D056735
+autoimmune lymphoproliferative syndrome	D056735
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+ALPS	D056735
+Classical galactosemia	D005693
+Classical galactosemia	D005693
+galactosemia	D005693
+aniridia	D015783
+Peters anomaly	C537884
+autosomal dominant keratitis	C537022
+familial foveal dysplasia	OMIM:136520
+aniridia	D015783
+Aniridia	D015783
+aniridia	D015783
+brain, breast, and prostate cancer	D001932|D001943|D011471
+tumor	D009369
+cancers	D009369
+glioblastoma	D005909
+prostate cancer	D011471
+breast cancer	D001943
+primary glioblastomas	D005909
+tumor	D009369
+tumor	D009369
+metastasis	D009362
+X-linked retinoschisis	D041441
+X-linked retinoschisis	D041441
+XLRS	D041441
+vitreoretinal dystrophy	D058499
+visual loss	C531604
+XLRS	D041441
+XLRS	D041441
+genetic abnormalities	D030342
+XLRS	D041441
+XLRS	D041441
+phenylalanine hydroxylase deficiency	OMIM:261600
+Maternal Phenylketonuria	D017042
+maternal phenylketonuria	D017042
+PKU	D010661
+hyperphenylalaninemic	D010661
+Maternal PKU	D017042
+PKU	D010661
+PKU	D010661
+PKU	D010661
+mild hyperphenylalaninemia	D010661
+MHP	D010661
+PAH-deficient	OMIM:261600
+PKU	D010661
+MHP	D010661
+PKU	D010661
+PKU	D010661
+PKU	D010661
+PKU	D010661
+PKU	D010661
+PKU	D010661
+maternal phenylketonuria	D017042
+PKU	D010661
+PKU	D010661
+hemochromatosis	D006432
+iron-overload disease	D019190
+hereditary hemochromatosis	D006432
+hemochromatosis	D006432
+colorectal cancers	D015179
+colorectal cancers	D015179
+pancreatic cancers	D010190
+colorectal cancers	D015179
+colorectal cancer	D015179
+cancers	D009369
+colorectal cancers	D015179
+colorectal cancers	D015179
+hypomyelination	D003711
+glial cell death	D004194
+genetic disorders	D030342
+Pelizaeus-Merzbacher disease	OMIM:312080
+degeneration and premature cell death of oligodendrocytes	D056784
+hypomyelination	D003711
+myelin-deficient	D003711
+Hypomyelination	D003711
+oligodendrocyte degeneration	D056784
+Pelizaeus-Merzbacher disease	OMIM:312080
+alkaptonuria	D000474
+Alkaptonuria	D000474
+AKU	D000474
+inborn error of metabolism	D008661
+AKU	D000474
+AKU	D000474
+AKU	D000474
+AKU	D000474
+X-linked adrenoleukodystrophy	D000326
+Adrenoleukodystrophy	D000326
+ALD	D000326
+X-linked disease	D040181
+cerebral ALD	D000326
+adrenomyeloneuropathy	D000326
+AMN	D000326
+ALD	D000326
+Central nervous system demyelination	D003711
+AMN	D000326
+Adrenal insufficiency	D000309
+Addisons disease	D000224
+ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+Brugada syndrome	D053840
+congenital long-QT syndrome	D008133
+LQT3	C537034
+idiopathic ventricular fibrillation	C537182
+IVF	C537182
+IVF	C537182
+LQT3	C537034
+IVF	C537182
+Autosomal recessive familial neurohypophyseal diabetes insipidus	OMIM:125700
+Familial neurohypophyseal diabetes insipidus	OMIM:125700
+autosomal dominant disorder	D030342
+arginine vasopressin (AVP) deficiency	OMIM:125700
+neuronal damage	D009410
+neurohypophyseal diabetes insipidus	D020790
+deficiency of active AVP	OMIM:125700
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+tumor	D009369
+breast and/or ovarian cancer	D061325
+hereditary breast and/or ovarian cancer	D061325
+Knobloch syndrome	C537209
+midline scalp defect of the frontal region	C538225
+Knobloch syndrome	C537209
+vitreoretinal degeneration	D012162
+high myopia	D009216
+cataract	D002386
+telecanthus	D030342
+hypertelorism	D006972
+high-arched palate	D007569
+defect of the anterior midline scalp	C538225
+midline scalp defects	C538225
+Pendred syndrome	C536648
+PDS	C536648
+Pendred syndrome	C536648
+congenital sensorineural hearing loss	D006319
+thyroid goiter	D006042
+autosomal recessive disorder	D030342
+PDS	C536648
+PDS	C536648
+congenital deafness	D003638
+widened vestibular aqueduct	OMIM:600791
+goiter	D006042
+Pendred syndrome	C536648
+PDS	C536648
+congenital hearing loss	D003638
+inner ear morphological anomaly	D007759
+thyroid goiter	D006042
+familial adenomatous polyposis	D011125
+tumor	D009369
+tumors	D009369
+FAP	D011125
+familial adenomatous polyposis	D011125
+sporadic colorectal cancers	D015179
+APC	D011125
+attenuated polyposis	C538265
+APC	D011125
+FAP	D011125
+APC	D011125
+colorectal adenomas	D000236
+FAP	D011125
+APC	D011125
+APC	D011125
+FAP desmoids	D018222
+tumor	D009369
+tumors	D009369
+tumors	D009369
+VLCAD deficiency	C536353
+VLCAD deficiency	C536353
+cardiac disease	D006331
+hypertrophic cardiomyopathy	D002312
+cardiac disease	D006331
+Lesch-Nyhan	D007926
+Lesch-Nyhan syndrome	D007926
+complete deficiency of hypoxanthine guanine phosphoribosyltransferase	D007926
+Lesch-Nyhan syndrome	D007926
+HPRT deficient	D007926
+hyperphenylalaninemia	D010661
+PKU	D010661
+classical phenylketonuria	D010661
+hemochromatosis	D006432
+HFE deficiency	D006432
+hemochromatosis	D006432
+HFE-deficient	D006432
+hemochromatosis	D006432
+cerebrotendinous xanthomatosis	D019294
+CTX	D019294
+deficiency in the sterol 27-hydroxylase activity	D019294
+adrenoleukodystrophy	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+Alzheimers disease	D000544
+AD	D000544
+abnormalities in the bilateral cerebellar hemispheres	D002526
+demyelination of the cerebral white matter	D003711
+ALD	D000326
+ALD	D000326
+insidious lesion	D004194
+neuronal degeneration	D009410
+ALD	D000326
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+malaria	D008288
+Pendred syndrome	C536648
+Pendred syndrome	C536648
+autosomal recessive disorder	D030342
+deafness	D003638
+goiter	D006042
+PDS	C536648
+Pendred	C536648
+Pendred	C536648
+PDS	C536648
+Pendred syndrome	C536648
+G6PD deficiency	D005955
+Aspartylglucosaminuria	D054880
+Aspartylglucosaminuria	D054880
+AGU	D054880
+disorder of glycoprotein metabolism	D008661
+deficiency of the lysosomal enzyme aspartylglucosaminidase	D054880
+AGU	D054880
+AGU	D054880
+AGU	D054880
+breast-ovarian cancer	D061325
+tumors	D009369
+tumor	D009369
+tumors	D009369
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+adrenoleukodystrophy	D000326
+adrenomyeloneuropathy	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+adrenomyeloneuropathy	D000326
+AMN	D000326
+ALD	D000326
+AMN	D000326
+ALD	D000326
+AMN	D000326
+ALD	D000326
+AMN	D000326
+ALD	D000326
+AMN	D000326
+ALD	D000326
+AMN	D000326
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+autosomal dominant neurodegenerative disorder	D019636
+myotonic dystrophy	D009223
+muscular dystrophy	D009136
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+hemochromatosis	D006432
+Li-Fraumeni syndrome	D016864
+Li-Fraumeni syndrome	D016864
+autosomal dominant disorder	D030342
+cancer	D009369
+cancers	D009369
+Li-Fraumeni syndrome	D016864
+cancer	D009369
+Li-Fraumeni syndrome	D016864
+tumor	D009369
+seminoma	D018239
+medulloblastoma	D008527
+seminoma	D018239
+tumor	D009369
+Li-Fraumeni syndrome	D016864
+seminoma	D018239
+medulloblastoma	D008527
+tumorogenesis	D002471
+tumor	D009369
+Type II human complement C2 deficiency	OMIM:217000
+Type II complement protein C2 deficiency	OMIM:217000
+Type I C2 deficiency	OMIM:217000
+Type II deficiency	OMIM:217000
+Type II C2 deficiency	OMIM:217000
+phenylketonuria	D010661
+Phenylketonuria	D010661
+PKU	D010661
+autosomal recessive human genetic disorder	D030342
+deficiency of hepatic phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+inborn error of amino-acid metabolism	D000592
+PKU	D010661
+PKU	D010661
+PKU	D010661
+molecular lesion	D030342
+Cowden disease	D006223
+Bannayan-Zonana syndrome	D006223
+hamartoma syndromes	D006223
+tumour	D009369
+malignancy	D009369
+sporadic breast, brain, prostate and kidney cancer	D001943|D001932|D011471|D007680
+tumours	D009369
+endometrial carcinomas	D016889
+malignant melanoma	D008545
+thyroid tumours	D013964
+hamartoma syndromes	D006223
+Cowden disease	D006223
+CD	D006223
+Bannayan-Zonana (BZS) or Ruvalcaba-Riley-Smith syndrome	D006223
+CD	D006223
+BZS	D006223
+CD	D006223
+CD	D006223
+CD	D006223
+BZS	D006223
+CD	D006223
+BZS	D006223
+BZS	D006223
+CD	D006223
+CD	D006223
+breast disease	D001941
+malignant breast disease	D001941
+CD	D006223
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+growth retardation	D006130
+chromosomal fragmentation during meiosis	D048629
+immune defects	D007154
+thymic lymphoma	D013953
+inherited human disease	D030342
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+infertility	D007246
+Immune defects	D007154
+behavioral abnormalities	D001523
+thymic lymphomas	D008223
+tumor	D009369
+APC	D011125
+Familial adenomatous polyposis	D011125
+FAP	D011125
+colorectal cancer	D015179
+adenomatous polyposis coli	D011125
+APC	D011125
+APC	D011125
+FAP	D011125
+familial adenomatous polyposis	D011125
+APC	D011125
+APC	D011125
+FAP	D011125
+FAP	D011125
+retinoschisis	D041441
+Juvenile retinoschisis	D041441
+X-linked recessive disease	D040181
+Retinoschisis	D041441
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+glucose-6-phosphate dehydrogenase (G6PD) -deficient	D005955
+G6PD-deficient	D005955
+G6PD-deficient	D005955
+G6PD-deficient	D005955
+G6PD deficiency	D005955
+hereditary non-polyposis colorectal cancer	D003123
+hereditary non-polyposis colorectal cancer	D003123
+HNPCC	D003123
+colorectal cancer	D015179
+cancer	D009369
+Norrie disease	C537849
+Norrie disease	C537849
+pseudoglioma	C537849
+NDP	C537849
+X-linked neurodevelopmental disorder	D038901
+NDP	C537849
+Norrie	C537849
+NDP	C537849
+NDP	C537849
+Wilms' tumor	D009396
+Wilms tumor	D009396
+male pseudohermaphroditism	D058490
+Denys-Drash syndrome	D030321
+hereditary hemochromatosis	D006432
+HH	D006432
+HH	D006432
+HH	D006432
+cancer	D009369
+Wolman disease	D015223
+Wolman disease	D015223
+Wolman disease	D015223
+Wolman disease	D015223
+breast/ovarian cancer	D061325
+sporadic ovarian tumours	D010051
+autosomal dominant syndrome	D030342
+breast and ovarian cancer	D061325
+tumours	D009369
+tumour	D009369
+ovarian cancers	D010051
+tumours	D009369
+tumour	D009369
+ovarian cancers	D010051
+Duchenne muscular dystrophy	D020388
+muscular dystrophy	D009136
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+limb-girdle muscular dystrophy	D049288
+DMD	D020388
+DMD	D020388
+myopathy	D009135
+DMD	D020388
+uniparental disomy	D024182
+DMD	D020388
+Kaposi sarcoma	D012514
+T-cell lymphoma	D016399
+Wiskott-Aldrich syndrome	D014923
+eczema	D004485
+thrombocytopenia	D013921
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+lymphadenopathy	D008206
+splenomegaly	D013163
+thrombocytopenia	D013921
+WAS	D014923
+Kaposi sarcoma	D012514
+T-cell large cell lymphoma	D016399
+Epstein-Barr virus	D020031
+cytomegalovirus	D003586
+human immunodeficiency virus	D015658
+HIV	D015658
+Kaposi sarcoma	D012514
+congenital immunodeficiency syndrome	D007153
+Kaposi sarcoma	D012514
+HIV	D015658
+Kaposi sarcoma	D012514
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+cerebrotendinous xanthomatosis	D019294
+cerebrotendinous xanthomatosis	D019294
+CTX	D019294
+CTX	D019294
+xanthoma	D014973
+Combined genetic deficiency of C6 and C7	OMIM:610102|OMIM:612446
+sub-total deficiency of C6 and C7	OMIM:610102|OMIM:612446
+C6 deficiency	OMIM:612446
+Langer-Giedion syndrome	D015826
+Langer-Giedion syndrome	D015826
+LGS	D015826
+LGS	D015826
+LGS	D015826
+LGS	D015826
+LGS	D015826
+Friedreich ataxia	D005621
+Frataxin deficiency	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+autosomal recessive cardiodegenerative and neurodegenerative disease	D030342+D019636
+mitochondrial iron accumulation	D028361
+hypersensitivity to oxidative stress	D004194
+FRDA	D005621
+Wilson disease	D006527
+Wilson disease	D006527
+Wilson disease	D006527
+G6PD deficiency	D005955
+episodic hemolytic anemia	D000743
+life-long hemolytic anemia	D000745
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+APC	D011125
+adenomatous polyposis coli	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+cancer	D009369
+APC	D011125
+APC	D011125
+acute radiation toxicity	D054508
+cancer-associated diseases	D009369
+ataxia-telangiectasia	D001260
+Li-Fraumeni syndrome	D016864
+T-cell lymphomas	D016399
+tumour	D009369
+acute radiation toxicity	D054508
+tumours	D009369
+alkaptonuria	D000474
+AKU	D000474
+alkaptonuria	D000474
+AKU	D000474
+AKU	D000474
+AKU	D000474
+AKU	D000474
+glucose-6-phosphate dehydrogenase deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+Overgrowth of oral mucosa and facial skin	D006965
+aspartylglucosaminuria	D054880
+Aspartylglucosaminuria	D054880
+AGU	D054880
+lysosomal storage disorder	D016464
+deficiency of aspartylglucosaminidase	D054880
+mental retardation	D008607
+AGU	D054880
+facial lesions	D013568
+erythema of the facial skin	D017445
+facial angiofibromas	D018322
+tumours	D009369
+tuberous sclerosis	D014402
+Oedemic buccal mucosa	D007967
+leucoedema	D007967
+gingival overgrowths	D019214
+AGU	D054880
+oral mucosal lesions	D009059
+fibroepithelial or epithelial hyperplasias	D017573
+AGU	D054880
+mucosal lesions	D009059
+mucosal overgrowth	D009059
+AGU	D054880
+C7 deficiency	OMIM:610102
+C7 deficiency	OMIM:610102
+C7-deficient	OMIM:610102
+galactosemia	D005693
+GALT deficiency	D005693
+GALT deficiency	D005693
+classic galactosemia	D005693
+galactosemia	D005693
+classic galactosemia	D005693
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+X-linked immunodeficiency disease	D007153+D040181
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+isolated thrombocytopenia	D013921
+WAS	D014923
+WAS	D014923
+diastrophic dysplasia	C536170
+diastrophic dysplasia	C536170
+DTD	C536170
+DTD	C536170
+familial expansile osteolysis	OMIM:174810
+Familial expansile osteolysis	OMIM:174810
+FEO	OMIM:174810
+autosomal dominant bone disorder	D001847
+increased bone remodelling	D001847
+osteolytic lesions	D030981
+FEO	OMIM:174810
+FEO	OMIM:174810
+familial Paget disease of bone	C538098
+PDB	C538098
+adrenoleukodystrophy protein deficiency	D000326
+X-ALD	D000326
+Inherited defects	D030342
+adrenoleukodystrophy	D000326
+peroxisomal disorder	D018901
+X-linked adrenoleukodystrophy	D000326
+X-ALD	D000326
+X-ALD	D000326
+X-ALD	D000326
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+A-T	D001260
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+fragile X syndrome	D005600
+X-linked amelogenesis imperfecta	C538243
+inherited dental abnormality	D014071
+X-linked amelogenesis imperfecta	C538243
+XAI	C538243
+XAI	C538243
+XAI	C538243
+XAI disease	C538243
+XAI	C538243
+hemochromatosis	D006432
+hemochromatosis	D006432
+hemochromatosis	D006432
+hemochromatosis	D006432
+hemochromatosis	D006432
+hemochromatosis	D006432
+hemochromatosis	D006432
+HFE defect	D006432
+G6PD deficiency	D005955
+malaria	D008288
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+enzymopathy	D008661
+malaria	D008288
+malaria	D008288
+G6PD deficiency	D005955
+malaria	D008288
+X-linked disorder	D040181
+G6PD deficiency	D005955
+G6PD A-	D005955
+malaria	D008288
+malaria	D008288
+enzyme deficiency	D008661
+malaria	D008288
+G6PD deficiency	D005955
+Prader-Willi syndrome	D011218
+chromosome 15 anomaly	D002869
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+endometrial cancer	D016889
+tumours	D009369
+microsatellite instability	D053842
+hereditary nonpolyposis colorectal cancer	D003123
+HNPCC	D003123
+sporadic tumours	D009369
+endometrial carcinomas	D016889
+endometrial carcinoma	D016889
+endometrial carcinoma	D016889
+tumours	D009369
+phenylketonuria	D010661
+hyperphenylalaninemias	D010661
+phenylketonuria	D010661
+hyperphenylalaninemia	D010661
+autosomal recessive Alport syndrome	C536587
+Autosomal recessive Alport syndrome	C536587
+hematuric glomerulonephritis	D005921
+glomerular basement membrane abnormalities	D005921
+autosomal recessive Alport syndrome	C536587
+diabetes mellitus	D003920
+optic atrophy	D009896
+Wolfram syndrome	OMIM:222300
+Wolfram syndrome	OMIM:222300
+WFS	OMIM:222300
+autosomal recessive neurodegenerative disorder	D020271
+insulin-dependent diabetes mellitus	D003922
+optic atrophy	D009896
+WFS	OMIM:222300
+WFS	OMIM:222300
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+multiple epiphyseal dysplasia	D010009
+club foot	D003025
+double layered patella	C535504
+diastrophic dysplasia	C536170
+recessive disorders	D030342
+achondrogenesis 1B	C536016
+atelosteogenesis 2	C535395
+diastrophic dysplasia	C536170
+multiple epiphyseal dysplasia	D010009
+club foot	D003025
+hip dysplasia	D006618
+multiple epiphyseal dysplasia	D010009
+double layered patella	C535504
+Cleft palate	D002972
+swelling of the ear pinna	D004427
+hitch hiker thumb	C536903
+DTDST disorders	D030342
+recessive disorder	D030342
+Multiple epiphyseal dysplasia	D010009
+EDM1	OMIM:132400
+EDM2	OMIM:600204
+MED	D010009
+EDM4	OMIM:226900
+Myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+neuromuscular disorder	D009468
+DM	D009223
+DM	D009223
+DM	D009223
+pyoderma gangrenosum	D017511
+C7 deficiency	OMIM:610102
+pyoderma gangrenosum	D017511
+PG	D017511
+systemic diseases	D034721
+congenital complement deficiencies	D007153
+PG	D017511
+C7 deficiency	OMIM:610102
+Deficiencies of C7	OMIM:610102
+immunologic abnormalities	D007153
+PG	D017511
+PG	D017511
+Emerin deficiency	D020389
+Emery-Dreifuss muscular dystrophy	D020389
+X-linked Emery-Dreifuss muscular dystrophy	D020389
+EDMD	D020389
+neuromuscular diseases	D009468
+EDMD	D020389
+EDMD	D020389
+deficiency of emerin	D020389
+EDMD	D020389
+melanoma	D008545
+tumor	D009369
+melanoma	D008545
+melanoma	D008545
+melanoma	D008545
+melanomas	D008545
+tumor	D009369
+tumor	D009369
+familial neurohypophyseal diabetes insipidus	OMIM:125700
+Familial neurohypophyseal diabetes insipidus	OMIM:125700
+FNDI	OMIM:125700
+deficiency of the hormone arginine vasopressin	OMIM:125700
+FNDI	OMIM:125700
+FNDI	OMIM:125700
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+chondrodysplasia	D010009
+defective formation of type II collagen	D003095
+severely handicapped	D008607
+short stature	D006130
+restricted joint mobility	D007592
+blindness	D001766
+Kniest dysplasia	C537207
+Wiskott-Aldrich syndrome	D014923
+X-linked immunodeficiency Wiskott-Aldrich syndrome	D014923
+Machado-Joseph disease	D017827
+MJD	D017827
+neurodegenerative disorders	D019636
+progressive cerebellar ataxia	D002524
+spinocerebellar ataxia type 3	D017827
+SCA3	D017827
+MJD	D017827
+degeneration of certain brain areas	D001927
+inherited breast cancer	D001943
+breast cancer	D001943
+familial breast cancer	D001943
+inherited breast/ovarian cancer	D061325
+inherited breast cancer	D001943
+breast cancer	D001943
+male breast cancer	D018567
+breast cancer	D001943
+hereditary breast cancer	D001943
+retinoblastoma	D012175
+alveolar rhabdomyosarcoma	D018232
+solid tumors	D009369
+alveolar rhabdomyosarcoma	D018232
+tumor	D009369
+Myotonia levior	D009224
+chloride channel disorder	OMIM:160800
+dominant non-dystrophic myotonias	C536245
+Dominant myotonia congenita	D009224
+Thomsens disease	D009224
+dominant myotonias	D009224
+myotonia levior	D009224
+myotonia	D009222
+Thomsens disease	D009224
+muscle hypertrophy	C536106
+myotonia levior	D009224
+Thomsens disease	D009224
+Thomsens disease	D009224
+recessive myotonia	D009224
+C9 deficiency	OMIM:613825
+C9-deficient	OMIM:613825
+C9 deficiency	OMIM:613825
+complete deficiency of C9	OMIM:613825
+C9 deficiency	OMIM:613825
+Myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+cholesterol acyltransferase deficiency	D007863
+fish-eye disease	D007863
+Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency	D007863
+Fish-eye disease	D007863
+partial LCAT deficiency	D007863
+atherosclerotic cardiovascular disease	D050197
+LCAT deficiency	D007863
+classic LCAT deficiency	D007863
+Fish-eye disease	D007863
+complete or partial LCAT deficiency	D007863
+atherosclerosis	D050197
+classic LCAT deficiency	D007863
+Fish-eye disease	D007863
+atherosclerosis	D050197
+attenuated APC	C538265
+APC	D011125
+adenomatous polyps of the colon and rectum	D011125
+colorectal cancer	D015179
+APC	D011125
+attenuated adenomatous polyposis coli	C538265
+AAPC	C538265
+AAPC	C538265
+colorectal polyps	D003111
+colorectal cancer	D015179
+APC	D011125
+AAPC	C538265
+APC	D011125
+APC	D011125
+APC	D011125
+attenuated polyposis	C538265
+complement component C6 deficiency	OMIM:612446
+Complement component C6 deficiency	OMIM:612446
+C6D	OMIM:612446
+meningococcal meningitis	D008585
+C6D	OMIM:612446
+meningitis	D008581
+neisserial infection	D016870
+C6D	OMIM:612446
+aspartylglucosaminuria	D054880
+AGU	D054880
+Aspartylglucosaminuria	D054880
+AGU	D054880
+AGU	D054880
+AGU	D054880
+X-linked adrenoleukodystrophy	D000326
+X-linked adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+abnormalities in the vision blindness genes	D003117
+hemochromatosis	D006432
+Genetic hemochromatosis	D006432
+GH	D006432
+GH	D006432
+GH	D006432
+infectious diseases	D003141
+genetic disorders	D030342
+anemia	D000740
+Lesch-Nyhan	D007926
+Lesch-Nyhan syndrome	D007926
+Lesch-Nyhan	D007926
+Lesch-Nyhan syndrome	D007926
+Familial Mediterranean fever	D010505
+Familial Mediterranean fever	D010505
+FMF	D010505
+recessively inherited disorder	D030342
+serosal inflammation	D007249
+Renal amyloidosis	C538249
+FMF	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+renal amyloidosis	C538249
+arthritis	D001168
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+APC	D011125
+colorectal polyps	D003111
+familial adenomatous polyposis	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+familial adenomatous polyposis	D011125
+FAP	D011125
+FAP	D011125
+APC	D011125
+colorectal polyps	D003111
+FAP	D011125
+FAP	D011125
+polyps	D011127
+FAP	D011125
+polyps	D011127
+APC	D011125
+colorectal polyps	D003111
+FAP	D011125
+APC	D011125
+Duchenne/Becker muscular dystrophy	D020388|C537666
+Duchenne and Becker muscular dystrophy	D020388|C537666
+DMD	D020388
+BMD	C537666
+DMD	D020388
+DMD	D020388
+BMD	C537666
+DMD	D020388
+BMD	C537666
+DMD defects	D020388
+muscle disease	D009135
+pancreatic cancer	D010190
+solid tumors	D009369
+pancreatic cancer	D010190
+tumor types	D009369
+pancreatic tumors	D010190
+pancreatic tumors	D010190
+tumors	D009369
+pancreatic tumors	D010190
+pancreatic cancer	D010190
+cancers	D009369
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+Gaucher disease	D005776
+Gaucher disease	D005776
+GD	D005776
+lysosomal storage disorder	D016464
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+neurodevelopmentally handicapped	D009422
+PWS	D011218
+PWS	D011218
+PWS	D011218
+neurodevelopmentally handicapped	D009422
+hypothalamic abnormalities	D007027
+cerebrotendinous xanthomatosis	D019294
+genetic disease	D030342
+cerebrotendinous xanthomatosis	D019294
+CTX	D019294
+Abnormalities in the HDL	D052456
+CTX	D019294
+CTX	D019294
+CTX	D019294
+genetic defect	D030342
+CTX	D019294
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+AT	D001260
+AT	D001260
+Papillon-Lefevre syndrome	D010214
+Papillon-Lefevre syndrome	D010214
+PLS	D010214
+autosomal recessive disorder	D030342
+palmoplantar hyperkeratosis	D007645
+periodontitis	D010518
+PLS	D010214
+PLS	D010214
+PLS	D010214
+PLS	D010214
+palmoplantar hyperkeratosis	D007645
+periodontitis	D010518
+PLS	D010214
+periodontal disease	D010510
+Schwartz-Jampel chondrodystrophic myotonia	OMIM:255800
+Schwartz-Jampel syndrome	OMIM:255800
+SJS	OMIM:255800
+chondrodystrophic myotonia	OMIM:255800
+recessively inherited condition	D030342
+myotonia	D009222
+short stature	D006130
+bone dysplasia	D001848
+SJS	OMIM:255800
+SJS	OMIM:255800
+myotonia	D009222
+bone dysplasia	D001848
+myotonia	D009222
+SJS  type 1A	OMIM:255800
+bone dysplasia	D001848
+bone dysplasia	D001848
+Kniest dysplasia	C537207
+bone dysplasia	D001848
+Pyle disease	C536252
+SJS type 2	C537502
+SJS	OMIM:255800
+SJS	OMIM:255800
+SJS	OMIM:255800
+Lesch-Nyhan syndrome	D007926
+deficiency of hypoxanthine-guanine phosphoribosyltransferase	D007926
+Lesch-Nyhan syndrome	D007926
+Lesch-Nyhan syndrome	D007926
+Friedreich ataxia	D005621
+FRDA	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+retinoblastoma	D012175
+retinoblastoma	D012175
+retinoblastoma	D012175
+retinoblastoma	D012175
+Denys-Drash syndrome	D030321
+Denys-Drash syndrome	D030321
+nephropathy	D007674
+genital abnormalities	D014564
+Wilms tumor	D009396
+renal failure	D051437
+Wilms tumor	D009396
+X-linked adrenoleukodystrophy	D000326
+Addison's disease	D000224
+X-Linked adrenoleukodystrophy	D000326
+ALD	D000326
+genetic disease	D030342
+demyelination of the central nervous system	D020279
+adrenal insufficiency	D000309
+ALD	D000326
+ALD	D000326
+Adrenomyeloneuropathy	D000326
+AMN	D000326
+Adrenal insufficiency	D000309
+Addisons disease	D000224
+AMN	D000326
+cerebral ALD	D000326
+ALD	D000326
+ALD	D000326
+Addisons disease	D000224
+adrenocortical insufficiency	D000224
+cerebral ALD	D000326
+adrenomyeloneuropathy	D000326
+AMN	D000326
+ALD	D000326
+Addisons disease	D000224
+prolidase deficiency	D056732
+prolidase deficiency	D056732
+autosomal recessive disorder	D030342
+iminodipeptiduria	D000592
+skin ulcers	D012883
+mental retardation	D008607
+prolidase deficiency	D056732
+isolated aniridia	D015783
+isolated aniridia	D015783
+aniridia	D015783
+X-linked Emery-Dreifuss muscular dystrophy	D020389
+Emery-Dreifuss muscular dystrophy	D020389
+EMD	D020389
+X-linked EMD	D020389
+ankle contractures	D003286
+muscle weakness	D018908
+tumor	D009369
+adenomatous polyposis coli	D011125
+familial adenomatous polyposis	D011125
+colorectal tumors	D015179
+APC	D011125
+Duchenne muscular dystrophy	D020388
+Duchenne and the milder Becker muscular dystrophies	D020388|C537666
+dystrophic syndrome	D009136
+Duchenne/Becker muscular dystrophy	D020388|C537666
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+myopathies	D009135
+Emery Dreifuss muscular dystrophy	D020389
+DMD	D020388
+hexosaminidase A deficiency	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+Phenylketonuria	D010661
+PKU	D010661
+deficiency of the enzyme phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+Eye movement abnormalities	D005124
+cerebellar ataxia type I	D020754
+cerebellar ataxias type I	D020754
+spinocerebellar ataxias 1 and 2	OMIM:164400|OMIM:183090
+SCA1	OMIM:164400
+SCA2	OMIM:183090
+SCA3	D017827
+Machado-Joseph disease	D017827
+MJD	D017827
+SCA1	OMIM:164400
+hypermetria	D002524
+SCA2	OMIM:183090
+SCA3	D017827
+gaze-evoked nystagmus	D009759
+gaze-evoked nystagmus	D009759
+SCA1	OMIM:164400
+SCA2	OMIM:183090
+SCA3	D017827
+SCA1	OMIM:164400
+SCA2	OMIM:183090
+SCA3	D017827
+Macular dystrophy	D008268
+retinal degeneration	D012162
+retinal degeneration	D012162
+autosomal dominant retinitis pigmentosa	D012174
+macular dystrophy	D008268
+visual loss	C531604
+central scotoma	D012607
+atrophy of the retinal pigment epithelium	C536309
+choriocapillaris of the macula	D008268
+macular dystrophy	D008268
+cone dysfunction	OMIM:180020
+ataxia-telangiectasia	D001260
+sporadic T-cell leukaemia	D015458
+Ataxia-telangiectasia	D001260
+A-T	D001260
+recessive multi-system disorder	D030342
+cancer	D009369
+lymphoid neoplasias	D008223
+A-T	D001260
+tumour	D009369
+sporadic T-cell prolymphocytic leukaemia	D015461
+T-PLL	D015461
+clonal malignancy	D007945
+mature T-cell leukaemia	D015458
+A-T	D001260
+T-PLL	D015461
+A-T	D001260
+leukaemia	D007938
+T-PLL	D015461
+A-T	D001260
+tumour	D009369
+leukaemia	D007938
+tumour	D009369
+B-cell non-Hodgkins lymphomas	D016393
+B-NHL	D016393
+B-NHL	D016393
+tumours	D009369
+sporadic T-PLL	D015461
+tumour	D009369
+T-PLL	D015461
+familial neurohypophyseal diabetes insipidus	OMIM:125700
+Familial neurohypophyseal diabetes insipidus	OMIM:125700
+FNDI	OMIM:125700
+autosomal dominant disease	D030342
+FNDI	OMIM:125700
+FNDI	OMIM:125700
+neonatal jaundice	D007567
+lamellar cataracts	C535342|OMIM:116800
+neonatal jaundice	D007567
+bilateral lamellar cataracts	C535342|OMIM:116800
+G6PD deficient	D005955
+cataract	D002386
+G6PD deficiency	D005955
+cataract	D002386
+deficiency of AAT	C531610
+emphysema	D004646
+liver disease	D008107
+Myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+muscular dystrophy	D009136
+myotonia	D009222
+myopathy	D009135
+DM	D009223
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+Familial PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+Prader-willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+neonatal hypotonia	D009123
+developmental delay	D002658
+childhood-onset obesity	D009765
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+abnormalities in brain development	D002658
+dysmorphic features	D057215
+PWS	D011218
+phenylketonuria	D010661
+Phenylketonuria	D010661
+PKU	D010661
+metabolic disease	D008659
+PKU	D010661
+PKU	D010661
+PKU	D010661
+genetic defect	D030342
+insulin-dependent diabetes mellitus	D003922
+IDDM	D003922
+diabetes	D003920
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+Fragile X syndrome	D005600
+DM	D009223
+DM	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+Tay-Sachs	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+Tay-Sachs disease	D013661
+breast carcinoma	D001943
+cancers	D009369
+tumour	D009369
+cancer	D009369
+cancer	D009369
+tumour	D009369
+sporadic cancers	D009369
+familial breast and ovarian cancer	D061325
+sporadic breast and ovarian cancers	D001943|D010051
+breast carcinoma	D001943
+familial breast cancer	D001943
+breast cancer	D001943
+tumour	D009369
+breast cancer	D001943
+tumours	D009369
+sporadic breast cancers	D001943
+tumour	D009369
+cancers	D009369
+breast carcinoma	D001943
+pancreatic tumour	D010190
+pancreatic cancer	D010190
+Wilson disease	D006527
+Wilson disease	D006527
+WD	D006527
+WD	D006527
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+ataxia-telangiectasia	D001260
+autosomal recessive disorder	D030342
+ataxia-telangiectasia	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+PDS	C536648
+deafness	D003638
+Pendred syndrome	C536648
+Pendred syndrome	C536648
+recessive inherited disorder	D030342
+developmental abnormalities of the cochlea	D015834
+sensorineural hearing loss	D006319
+diffuse thyroid enlargement	D013959
+goiter	D006042
+hereditary deafness	D030342+D003638
+PDS	C536648
+PDS	C536648
+deafness	D003638
+deafness	D003638
+PDS	C536648
+PDS	C536648
+deafness	D003638
+type IV Ehlers-Danlos syndrome	D004535
+aortic rupture	D001019
+type IV Ehlers-Danlos syndrome	D004535
+hemochromatosis	D006432
+hemochromatosis	D006432
+early death	D003643
+iron overload	D019190
+cirrhosis	D008103
+hemochromatosis	D006432
+hemochromatosis	D006432
+hemochromatosis	D006432
+hepatic cirrhosis	D008103
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+APC	D011125
+adenomatous polyposis coli	D011125
+Familial adenomatous polyposis	D011125
+FAP	D011125
+colorectal cancer	D015179
+adenomatous polyps	D018256
+adenomatous polyposis coli	D011125
+APC	D011125
+FAP	D011125
+APC	D011125
+attenuated adenomatous polyposis coli	C538265
+AAPC	C538265
+AAPC	C538265
+APC	D011125
+APC	D011125
+AAPC	C538265
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+behavioral abnormalities	D001523
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+cataracts	D002386
+Myotonic dystrophy	D009223
+DM	D009223
+autosomal dominant disorder	D030342
+muscle wasting	D009133
+myotonia	D009222
+cardiac arrhythmia	D001145
+hyperinsulinaemia	D006946
+mental retardation	D008607
+cataracts	D002386
+genetic defect	D030342
+DM	D009223
+DM	D009223
+DM	D009223
+cardiac conduction disorders	D001145
+DM	D009223
+cataract	D002386
+cataract	D002386
+cataracts	D002386
+DM	D009223
+DM	D009223
+DM	D009223
+aniridia	D015783
+Peters anomaly	C537884
+congenital cataracts	D002386
+autosomal dominant keratitis	C537022
+isolated foveal hypoplasia	OMIM:136520
+aniridia	D015783
+myotonic dystrophy	D009223
+DM	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DMPK haploinsufficiency	D058495
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+Complement factor 2 deficiency	OMIM:217000
+Inherited complement deficiencies	D007153
+inherited deficiency of complement factor 2	OMIM:217000
+C2 deficiency	OMIM:217000
+cutaneous vasculitis	D018366
+sicca syndrome	D012859
+C2 deficiency	OMIM:217000
+seropositive rheumatoid arthritis	D001172
+retinoblastoma	D012175
+retinoblastoma	D012175
+tumors	D009369
+Schwartz-Jampel syndrome type 2	C537502
+Stuve-Wiedemann syndrome	C537502
+Schwartz-Jampel syndrome	D010009
+SJS	D010009
+myotonia	D009222
+skeletal dysplasia	C535662
+SJS type 2	C537502
+Stuve-Wiedemann syndrome	C537502
+SWS	C537502
+campomelia	C537966
+skeletal dysplasia	C535662
+contractures	D003286
+early death	D003643
+SJS type 2	C537502
+SWS	C537502
+SJS	D010009
+SWS	C537502
+neuromuscular disorder	D009468
+congenital joint contractures	D003286
+hyperthermia	D005334
+campomelic-metaphyseal skeletal dysplasia	D055036
+bone dysplasia	D001848
+SJS type 2	C537502
+SWS	C537502
+SWS	C537502
+SJS type 2	C537502
+familial breast and ovarian cancer	OMIM:613399
+breast/ovarian cancer	D061325
+argininemia	D020162
+Argininemia	D020162
+autossomal recessive disorder	D030342
+deficiency in the cytosolic liver-type arginase enzyme	D020162
+argininemia	D020162
+faciogenital dysplasia	C535331
+Aarskog-Scott syndrome	C535331
+Aarskog-Scott Syndrome	C535331
+AAS	C535331
+X-linked disorder	D040181
+short stature	D006130
+facial, limb and genital abnormalities	D019465|D017880|D014564
+AAS	C535331
+AAS	C535331
+AAS	C535331
+AAS	C535331
+X-linked agammaglobulinemia	OMIM:300755
+ectopic intracranial retinoblastoma	D012175
+ectopic intracranial retinoblastoma	D012175
+pineal and retinal tumours	D019572|D010871
+retinal and the pineal tumours	D019572|D010871
+retinoblastoma	D012175
+histidinemia	C538320
+fragile X syndrome	D005600
+fragile X syndrome	D005600
+fragile X syndrome	D005600
+fragile X syndrome	D005600
+fragile X	D005600
+fragile X	D005600
+Mentally retarded	D008607
+mentally retarded	D008607
+fragile X	D005600
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+DMD	D020388
+DMD	D020388
+Becker muscular dystrophy	C537666
+Becker muscular dystrophy	C537666
+kniest dysplasia	C537207
+Kniest dysplasia	C537207
+type II collagenopathy	C535964
+kyphoscoliosis	OMIM:610170
+midface hypoplasia	OMIM:300194
+myopia	D009216
+hearing loss	D034381
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+Adenomatous polyposis coli	D011125
+autism	D001321
+colorectal cancer	D015179
+APC	D011125
+Adenomatous polyposis coli	D011125
+carcinoma of the rectum	D012004
+mentally retarded	D008607
+autistic	D001321
+dysmorphic features	D000013
+APC	D011125
+APC	D011125
+colorectal tumors	D015179
+APC	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+colorectal tumors	D015179
+adenomas	D000236
+carcinomas	D009369
+familial adenomatous polyposis	D011125
+FAP	D011125
+APC	D011125
+tumors	D009369
+tumors	D009369
+tumor	D009369
+APC	D011125
+APC	D011125
+tumors	D009369
+adenomas	D000236
+carcinomas	D009369
+APC	D011125
+adenomas	D000236
+carcinomas	D009369
+APC	D011125
+colorectal tumors	D015179
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+autosomal recessive genetic disorder	D030342
+Tay-Sachs disease	D013661
+Coats' disease	D058456
+unilateral retinal telangiectasis	D058456
+Coats disease	D058456
+abnormal retinal vascular development	D058456
+retinal telangiectasis	D058456
+intraretinal and subretinal lipid accumulation	D006949
+exudative retinal detachment	D012163
+Coats disease	D058456
+Coats disease	D058456
+Norrie disease	C537849
+Coats disease	D058456
+Coats telangiectasis	D058456
+deficiency of norrin	C537849
+Trisomy 15	C538037
+Prader-Willi syndrome	D011218
+maternal disomy	D024182
+Uniparental disomy	D024182
+Prader-Willi syndrome	D011218
+PWS	D011218
+uniparental disomy	D024182
+uniparental disomy	D024182
+trisomy 15	C538037
+hypotonic	D009123
+PWS	D011218
+PWS	D011218
+uniparental disomy	D024182
+PWS	D011218
+hereditary breast and ovarian cancer	D061325
+familial Mediterranean fever	D010505
+familial Mediterranean fever	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+defect in secretion of complement C5	OMIM:609536
+deficiency of the fifth (C5) component of complement1-3	OMIM:609536
+C5 deficiency	OMIM:609536
+congenital chloride diarrhea	C536210
+CLD	C536210
+Congenital chloride diarrhea	C536210
+CLD	C536210
+CLD	C536210
+CLD	C536210
+CLD	C536210
+Pendred syndrome	C536648
+PDS	C536648
+Wiskott-Aldrich syndrome	D014923
+X-linked thrombocytopenia	OMIM:313900
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+congenital thrombocytopenia	OMIM:313900
+X-linked thrombocytopenia	OMIM:313900
+WAS	D014923
+WAS	D014923
+Duchenne and Becker muscular dystrophy	D020388|C537666
+DMD	D020388
+BMD	C537666
+Duchenne	D020388
+tumors	D009369
+bilateral and unilateral retinoblastoma	D012175
+retinoblastoma tumors	D012175
+tumors	D009369
+tumors	D009369
+tumors	D009369
+congenital cataracts	D002386
+aniridia	D015783
+anophthalmia	D000853
+central nervous system defects	D009421
+aniridia	D015783
+haploinsufficiency of PAX6	OMIM:106210
+aniridia	D015783
+congenital cataracts	D002386
+corneal dystrophy	D003317
+craniofacial and central nervous system defects	D019465|D009421
+no eyes	D000853
+Hereditary C7 deficiency	OMIM:610102
+ankylosing spondylitis	D013167
+deficient in the seventh component of complement	OMIM:610102
+C7 deficiency	OMIM:610102
+CM deficienty	OMIM:610102
+complement deficiencies (C2 and C7)	OMIM:610102|OMIM:217000
+Alstrom syndrome	D056769
+Alstrom syndrome	D056769
+autosomal recessive disorder	D030342
+retinal degeneration	D012162
+sensorineural hearing loss	D006319
+obesity	D009765
+non-insulin-dependent diabetes mellitus	D003924
+Alstrom syndrome	D056769
+Alstrom syndrome	D056769
+choroideremia	D015794
+choroideremia	D015794
+TCD	D015794
+TCD	D015794
+TCD	D015794
+TCD	D015794
+TCD	D015794
+TCD	D015794
+TCD	D015794
+TCD	D015794
+choroideremia	D015794
+TCD	D015794
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+Chediak-Higashi syndrome	D002609
+Chediak-Higashi syndrome	D002609
+CHS	D002609
+inherited disorder	D030342
+lymphoproliferative syndrome	D008232
+hemophagocytosis	D051359
+CHS	D002609
+lymphoproliferative syndrome	D008232
+CHS	D002609
+CHS	D002609
+lymphoproliferative disease	D008232
+hepatoblastoma	D018197
+Hepatoblastoma	D018197
+malignant tumor of the liver	D008113+D018198
+tumor	D009369
+adenomatous polyposis coli	D011125
+APC tumor	D011125
+hepatoblastoma	D018197
+tumor	D009369
+adenomatous polyposis coli	D011125
+hepatoblastomas	D018197
+tumor	D009369
+hepatoblastoma	D018197
+tumor	D009369
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+obesity	D009765
+mesenchymal tumour	D008637
+fat-cell tumours	D018205
+lipomas	D008067
+obesity	D009765
+obese	D009765
+partial or complete deficiency of Hmgic	OMIM:600698
+obesity	D009765
+obesity	D009765
+leptin deficiency	OMIM:164160
+obesity	D009765
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus Merzbacher disease	OMIM:312080
+Ataxia-telangiectasia	D001260
+genetic disorder	D030342
+immune deficiency	D007153
+chromosome instability	D043171
+lymphoid malignancy	D008223
+ataxia-telangiectasia	D001260
+chronic lymphocytic leukemia	D015451
+leukemia	D007938
+leukemic	D007938
+lymphoid malignancies	D008223
+Burkitts lymphoma	D002051
+lymphoid neoplasms	D008223
+hyperphenylalaninemia	D010661
+genetic defects	D030342
+phenylketonuria	D010661
+PKU	D010661
+hyperphenylalaninemia	D010661
+HPA	D010661
+PKU	D010661
+HPA	D010661
+HPA	D010661
+adrenoleukodystrophy	D000326
+Adrenoleukodystrophy	D000326
+ALD	D000326
+peroxisomal disorder	D018901
+neurodegenerative disease	D019636
+impairment of very long chain fatty acids beta-oxidation	OMIM:300100
+ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+adrenomyeloneuropathy	D000326
+ALD	D000326
+contiguous gene syndrome	D025063
+ALD	D000326
+breast and ovarian cancer	D061325
+piebaldism	D016116
+piebaldism	D016116
+piebaldism	D016116
+mental retardation	D008607
+multiple congenital anomalies	D000013
+piebald	D016116
+Deficiency of terminal complement components	D007153
+neisseria infections	D016870
+inherited C9 deficiency	OMIM:613825
+C9 deficiency	OMIM:613825
+C9 deficiency	OMIM:613825
+C9 deficiency	OMIM:613825
+enzyme deficiency	D008661
+G6PD deficiency	D005955
+classical and Duarte galactosemia	D005693
+Classical galactosemia	D005693
+classical and Duarte galactosemia	D005693
+classical galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+PMD	OMIM:312080
+X-linked spastic paraplegia	OMIM:312920
+SPG	OMIM:312920
+PMD	OMIM:312080
+nystagmus	D020417
+tremors	D014202
+mental retardation	D008607
+dementia	D003704
+personality disorders	D010554
+PLP-associated disease	OMIM:312080+OMIM:312920
+rearrangement disorders	D002869
+congenital anomaly disorders	D000013
+malignant tumors	D018198
+congenital anomaly disorders	D000013
+cat-eye syndrome	C535918|OMIM:115470
+der () syndrome	C535733
+velo-cardio-facial syndrome	D004062
+DiGeorge syndrome	D004062
+VCFS	D004062
+DGS	D004062
+VCFS	D004062
+DGS	D004062
+VCFS	D004062
+DGS	D004062
+VCFS	D004062
+DGS	D004062
+VCFS	D004062
+DGS	D004062
+VCFS	D004062
+DGS	D004062
+congenital anomaly disorders	D000013
+cat eye syndrome	C535918|OMIM:115470
+cat eye syndrome	C535918|OMIM:115470
+CES	C535918|OMIM:115470
+CES	C535918|OMIM:115470
+tetrasomy	D058670
+familial adenomatous polyposis coli	D011125
+familial adenomatous polyposis coli	D011125
+FAPC	D011125
+epidermoid cysts	D004814
+osteomata	D010016
+congenital hypertrophy of the retinal pigment epithelium	D012164
+CHRPEs	D012164
+mental handicap	D008607
+APC	D011125
+APC	D011125
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+protein S deficiency type I	D018455
+type I protein S deficiency	D018455
+protein S deficiency type I	D018455
+Lesch-Nyhan syndrome	D007926
+Lesch-Nyhan syndrome	D007926
+neurological and behavioural disorder	D009422|D001523
+inherited deficiency	D030342
+Lesch-Nyhan	D007926
+Lesch-Nyhan syndrome	D007926
+Lesch-Nyhan	D007926
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+Becker muscular dystrophy	C537666
+BMD	C537666
+DMD	D020388
+DMD	D020388
+BMD	C537666
+Lesch-Nyhan	D007926
+HPRT deficiencies	OMIM:300323
+gouty arthritis	D015210
+Lesch-Nyhan syndrome	D007926
+L-N	D007926
+L-N	D007926
+L-N syndrome	D007926
+genetic lesions	D020022
+L-N	D007926
+alveolar rhabdomyosarcoma	D018232
+Pediatric alveolar rhabdomyosarcoma	D018232
+Angelman syndrome	D017204
+Angelman syndrome	D017204
+AS	D017204
+uniparental disomy	D024182
+UPD	D024182
+AS	D017204
+AS	D017204
+AS	D017204
+AS	D017204
+X-linked Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+genetic disease	D030342
+muscular dystrophy	D009136
+DMD	D020388
+Becker muscular dystrophy	C537666
+Emery Dreifuss muscular dystrophy	D020389
+DMD	D020388
+DMD	D020388
+kidney cancer	D007680
+Wilms tumour	D009396
+WT	D009396
+sporadic Wilms tumours	D009396
+Denys-Drash syndrome	D030321
+renal nephropathy	D007674
+gonadal anomaly	D006059
+predisposition to WT	D020022
+juvenile granulosa cell tumour	D006106
+non-asbestos related mesothelioma	D008654
+desmoplastic small round cell tumour	D058405
+acute myeloid leukemia	D015470
+alkaptonuria	D000474
+Alkaptonuria	D000474
+aku	D000474
+inborn error of metabolism	D008661
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+ataxia-telangiectasia	D001260
+AT	D001260
+AT	D001260
+cancer	D009369
+AT	D001260
+Canavan disease	D017825
+Canavan disease	D017825
+deficiency of aspartoacylase	D017825
+Canavan disease	D017825
+Canavan disease	D017825
+Canavan disease	D017825
+deficiency of ASPA	D017825
+Canavan disease	D017825
+Mendelian disease	D030342
+multifactorial diseases	D004194
+hemophilia B	D002836
+adrenoleukodystrophy	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+neurologic disease	D009422
+leukodystrophy	D007966
+myeloneuropathy	D009422
+adrenocortical insufficiency	D000224
+ALD	D000326
+Wilson disease	D006527
+Wilson disease	D006527
+WD	D006527
+autosomal recessive disorder	D030342
+WD	D006527
+WD	D006527
+WD	D006527
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+Huntington disease	D006816
+Complement deficiency	D007153
+nephritis	D009393
+deficiency of C3	OMIM:613779
+C3 deficiency	OMIM:613779
+glomerulonephritis	D005921
+proteinuria	D011507
+haematuria	D006417
+C3-deficient	OMIM:613779
+C3 deficiency	OMIM:613779
+renal disease	D007674
+C3 deficiency	OMIM:613779
+nephritis	D009393
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+adrenomyeloneuropathy	D000326
+X-linked adrenoleukodystrophy	D000326
+X-linked adrenoleukodystrophy	D000326
+X-ALD	D000326
+inherited disorder	D030342
+demyelination	D003711
+impaired function of adrenal cortex and testes	D000303
+childhood cerebral ALD	D000326
+CCALD	D000326
+adrenomyeloneuropathy	D000326
+AMN	D000326
+X-ALD	D000326
+AMN	D000326
+AMN	D000326
+CCALD	D000326
+adolescent cerebral ALD	D000326
+AdolCALD	D000326
+AMN	D000326
+CCALD	D000326
+AdolCALD	D000326
+AMN	D000326
+X-ALD	D000326
+aniridia	D015783
+Aniridia	D015783
+iris hypoplasia	D007499
+autosomal dominant congenital disorder of the eye	D005124
+aniridia	D015783
+aniridia	D015783
+cataracts	D002386
+aniridia	D015783
+aniridia	D015783
+anosmia	D000857
+aniridia	D015783
+aniridia	D015783
+haploinsufficiency of PAX6	OMIM:106210 
+Hepatoblastoma	D018197
+pigmented ocular fundus lesions	D015821
+jaw lesions	D007571
+Gardner syndrome	D005736
+Hepatoblastoma	D018197
+neoplasm	D009369
+hereditary adenomatous polyposis of the colon	D011125
+hepatoblastoma	D018197
+Gardner syndrome	D005736
+GS	D005736
+hepatoblastoma	D018197
+GS	D005736
+odontoma	D009810
+pigmented ocular fundus lesions	D015821
+GS	D005736
+GS	D005736
+osteomatous jaw lesions	D007571
+pigmented ocular fundus lesions	D015821
+colonic polyps	D003111
+hepatoblastoma	D018197
+colonic polyps	D003111
+jaw lesions	D007571
+pigmented ocular fundus lesions	D015821
+GS	D005736
+CHM	D015794
+choroideremia	D015794
+choroideremia	D015794
+CHM	D015794
+choroideremia	D015794
+CHM	D015794
+CHM	D015794
+CHM	D015794
+choroideremia	D015794
+Glucose-6-PHOSPHATE dehydrogenase (G6PD; EC 1.1. 1. 49) deficiency	D005955
+enzymopathy	D008661
+G6PD deficiencies	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+autoimmune lymphoproliferative syndrome	D056735
+Familial Mediterranean fever	D010505
+familial Mediterranean fever	D010505
+FMF	D010505
+FMF	D010505
+amyloidotic kidney disease	D007674
+FMF	D010505
+metachromatic leukodystrophy	D007966
+MLD	D007966
+metachromatic leukodystrophy	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+Wilson disease	D006527
+intracellular copper accumulation	C535468
+late-onset hepatic nodular transformation	D020518
+Wilson disease	D006527
+copper toxicity disorder	C535468
+hepatic and neuro-logical abnormalities	D008107|D009422
+Wilson disease	D006527
+copper deficient	C535468
+Morphological abnormalities	D000013
+cirrhosis	D008103
+neurological abnormalities	D009461
+growth retardation	D006130
+copper deficiency	C535468
+cirrhotic liver disease	D008103
+Wilson disease	D006527
+Adrenoleukodystrophy	D000326
+adrenomyeloneuropathy	D000326
+adrenal insufficiency	D000309
+adrenoleukodystrophy	D000326
+ALD	D000326
+adrenomyeloneuropathy	D000326
+AMN	D000326
+AMN	D000326
+ALD	D000326
+ALD	D000326
+AMN	D000326
+pituitary-adrenal abnormality	D010900+D000307
+ALD	D000326
+AMN	D000326
+adrenal insufficiency	D000309
+ALD	D000326
+AMN	D000326
+adrenocrotical insufficiency	D000224
+endocrinologic dysfunction	D004700
+adrenoleukodystrophy	D000326
+adrenomyeloneuropathy	D000326
+Adrenoleukodystrophy	D000326
+ALD	D000326
+X-linked inherited metabolic disorder	D008661
+inborn peroxisomal disease	D018901
+demyelination in the central and peripheral nervous system	D003711
+ALD	D000326
+adrenoleukodystrophy	D000326
+adrenomyeloneuropathy	D000326
+ALD	D000326
+AMN	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+hereditary prostate cancer	C537243
+hereditary prostate cancer	C537243
+Prostate Cancer	D011471
+prostate cancer	D011471
+hereditary prostate cancer	C537243
+hereditary prostate cancer	C537243
+Prostate Cancer	D011471
+prostate cancer	D011471
+prostate cancer	D011471
+hereditary prostate cancer	C537243
+deficiency of mitochondrial very-long-chain acyl-CoA dehydrogenase	C536353
+VLCAD deficiency	C536353
+Denys-Drash syndrome	D030321
+Denys-Drash syndrome	D030321
+Wilms tumor	D009396
+genital anomalies	D014564
+nephropathy	D007674
+Wilms tumor	D009396
+Denys-Drash syndrome	D030321
+Glucose/galactose malabsorption	OMIM:606824
+Glucose/galactose malabsorption	OMIM:606824
+GGM	OMIM:606824
+autosomal recessive disease	D030342
+diarrhoea	D003967
+dehydration	D003681
+GGM	OMIM:606824
+GGM	OMIM:606824
+GGM	OMIM:606824
+Autosomal dominant neurohypophyseal diabetes insipidus	OMIM:125700
+Autosomal dominant neurohypophyseal diabetes insipidus	OMIM:125700
+ADNDI	OMIM:125700
+inherited disease	D030342
+diabetes insipidus	D003919
+ADNDI	OMIM:125700
+dominantly inherited neurodegeneration	D020271
+Ataxia-telangiectasia	D001260
+hereditary multisystemic disease	D030342
+ataxia telangiectasia	D001260
+neurodegeneration	D019636
+cancer	D009369
+immune defects	D007154
+hypersensitivity to ionizing radiation	D004194
+neurological lesion	D019636
+ataxia-telangiectasia	D001260
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+Glucose 6-phosphate dehydrogenase deficiency	D005955
+hematologic malignancy	D019337
+glucose 6-phosphate dehydrogenase (G6PD) deficiency	D005955
+cancer	D009369
+hematological malignancies	D019337
+G6PD deficiency	D005955
+hematologic disease	D006402
+G6PD deficiency	D005955
+hematologic neoplasms	D019337
+hereditary breast and ovarian cancer	D061325
+breast cancer	D001943
+pendred syndrome	C536648
+Pendred syndrome	C536648
+syndromic deafness	D003638
+dyshormonogenic goiter	D006042
+sensory-neural deafness	D006319
+PDS	C536648
+thyroid goiter	D006042
+sensory-neural deafness	D006319
+Pendred syndrome	C536648
+Spinal xanthomatosis	D014973
+cerebrotendinous xanthomatosis	D019294
+spinal cord syndrome	D013118
+cerebrotendinous xanthomatosis	D019294
+CTX	D019294
+white matter abnormalities	D002493
+spinal xanthomatosis	D014973
+CTX	D019294
+chronic myelopathy	D002908+D013118
+hypertrophic cardiomyopathy	D002312
+very-long-chain acyl-coenzyme A dehydrogenase deficiency	C536353
+Very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) deficiency	C536353
+VLCAD deficiency	C536353
+hypertrophic cardiomyopathy	D002312
+hepatomegaly	D006529
+encephalopathy	D001927
+hypotonia	D009123
+VLCAD deficiency	C536353
+VLCAD deficiency	C536353
+cardiomyopathy	D009202
+breast and/or ovarian cancer	D061325
+breast and ovarian cancer	D061325
+breast cancer	D001943
+breast and/or ovarian cancer	D061325
+breast to ovarian cancer	D001943|D010051
+ovarian cancer	D010051
+Friedreich ataxia	D005621
+embryonic lethality	D020964
+Friedreich ataxia	D005621
+FRDA	D005621
+autosomal recessive ataxia	D013132
+iron-sulfur protein deficiency	OMIM:255125
+Frda	D005621
+embryonic lethality	D020964
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+Tay-Sachs disease	D013661
+APC	D011125
+adenomatous polyposis coli	D011125
+tumor	D009369
+APC	D011125
+adenomatous polyposis coli	D011125
+colorectal cancer	D015179
+congenital hypertrophy of the retinal pigment epithelium	D012164
+CHRPE	D012164
+CHRPE	D012164
+APC	D011125
+CHRPE	D012164
+CHRPE	D012164
+APC	D011125
+ataxia-telangiectasia	D001260
+recessive disease	D030342
+ataxia-telangiectasia	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+breast and breast-ovarian cancer	D001943|D061325
+hereditary breast or ovarian cancer	D061325
+ovarian cancer	D010051
+breast cancer	D001943
+ovarian cancer	D010051
+breast-ovarian cancer	D061325
+cancer	D009369
+cancers	D009369
+primary peritoneal cancer	D010534
+cancer of the fallopian tube	D005185
+malignant melanoma	D008545
+Malignant neoplasms	D009369
+ataxia-telangiectasia	D001260
+Ataxia-telangiectasia	D001260
+A-T	D001260
+autosomal recessive syndrome	D030342
+malignant neoplasms	D009369
+A-T	D001260
+cancers	D009369
+A-T	D001260
+malignant neoplasms	D009369
+A-T	D001260
+malignant neoplasms	D009369
+A-T	D001260
+malignant neoplasm	D009369
+A-T	D001260
+cancer	D009369
+ovarian, gastric, and biliary system carcinomas	D010051|D013274|D001661
+leukemia	D007938
+lymphoma	D008223
+A-T	D001260
+neoplasms	D009369
+pancreatic, basal cell, colonic, breast, and cervical carcinomas	D010190|D002280|D015179|D001943|D002583
+PKU	D010661
+Phenylketonuria	D010661
+PKU	D010661
+genetic disorder	D030342
+deficiency of hepatic phenylalanine hydroxylase	OMIM:261600
+molecular lesion	D030342
+PKU	D010661
+renal cell carcinoma	D002292
+von Hippel-Lindau	D006623
+von Hippel-Lindau	D006623
+VHL	D006623
+renal cell carcinoma	D002292
+VHL	D006623
+renal cell carcinoma	D002292
+VHL	D006623
+cancers	D009369
+cancer	D009369
+hereditary human breast and ovarian cancer	D061325
+BRCA1 defects	OMIM:604370
+mucopolysaccharidosis IVA	OMIM:253000
+Mucopolysaccharidosis IVA	OMIM:253000
+MPS IVA	OMIM:253000
+autosomal recessive lysosomal storage disorder	D016464
+genetic defect	D030342
+MPS IVA	OMIM:253000
+MPS IVA	OMIM:253000
+G(M2) gangliosidosis	D020143
+Tay-Sachs disease	D013661
+TSD	D013661
+infantile form of G (M2) gangliosidosis, Type 1	D020143
+G (M2) gangliosidosis	D020143
+TSD	D013661
+Hex A enzyme deficiency	D013661
+Hex A deficiency	D013661
+deficiency of the sixth component of complement	OMIM:612446
+meningococcal meningitis	D008585
+haemostasis abnormality	D020141
+C6 deficiency	OMIM:612446
+meningococcal meningitis	D008585
+hemostatic abnormalities	D020141
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+Hereditary deficiency of the third component of complement	OMIM:613779
+fever	D005334
+skin rash	D005076
+arthralgias	D018771
+fever	D005334
+skin rash	D005076
+arthralgias	D018771
+skin rash	D005076
+arthralgias	D018771
+decreased synthesis of C3	OMIM:613779
+inherited C3 deficiency	OMIM:613779
+fever	D005334
+skin rash	D005076
+arthralgia	D018771
+familial aniridia	D015783
+WAGR	D017624
+Wilms tumor	D009396
+aniridia	D015783
+genitourinary abnormalities	D014564
+mental retardation	D008607
+breast cancer	D001943
+breast cancer	D001943
+breast cancer	D001943
+breast cancer	D001943
+breast cancer	D001943
+ovarian cancer	D010051
+breast and ovarian cancer	D001943|D010051
+breast cancer	D001943
+ovarian cancer	D010051
+breast and ovarian cancer	D001943|D010051
+breast cancer	D001943
+breast cancers	D001943
+ovarian cancer	D010051
+breast cancer	D001943
+benign familial infantile convulsions syndrome	D020936
+BFIC	D020936
+Benign familial infantile convulsions	D020936
+BFIC	D020936
+autosomal dominant epilepsy syndrome	D030342+D004827
+neurological abnormalities	D009461
+BFIC	D020936
+generalized epilepsy and febrile seizures   plus  	D004829+D003294
+BFIC	D020936
+BFIC	D020936
+BFIC	D020936
+BFIC	D020936
+BFIC	D020936
+Brain disease	D001927
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+brain disease	D001927
+white matter lesions	D056784
+cerebral atrophy	D001284
+white matter lesions	D056784
+DM	D009223
+cognitive dysfunction	D003072
+white matter lesions	D056784
+cerebral atrophy	D001284
+hereditary breast and ovarian cancer syndrome	D061325
+APC	D011125
+familial adenomatous polyposis	D011125
+familial adenomatous polyposis	D011125
+FAP	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+FAP	D011125
+APC	D011125
+FAP	D011125
+APC	D011125
+FAP	D011125
+microcephaly	D008831
+mental retardation	D008607
+short stature	D006130
+Cohen syndrome	C536438
+microcephaly	D008831
+postnatal growth deficiency	D006130
+mental retardation	D008607
+Hypotonia	D009123
+chorioretinal dystrophy	D015862+D058499
+myopia	D009216
+mental retardation	D008607
+short stature	D006130
+Cohen syndrome	C536438
+Cohen syndrome	C536438
+Cohen syndrome	C536438
+Lesch-Nyhan	D007926
+Lesch-Nyhan syndrome	D007926
+Epstein-Barr	D020031
+Lesch-Nyhan syndrome	D007926
+von Hippel-Lindau tumor	D006623
+von Hippel-Lindau tumor	D006623
+clear-cell renal cell carcinoma	C538445
+RCC	D002292
+von Hippel-Lindau disease-associated and sporadic RCCs	D006623
+RCC- and von Hippel-Lindau disease-associated tumors	D006623
+RCC	D002292
+RCC	D002292
+von Hippel-Lindau disease	D006623
+RCC	D002292
+Nephropathy	D007674
+Wiskott-Aldrich syndrome	D014923
+Nephropathy	D007674
+Wiskott-Aldrich syndrome	D014923
+nephropathy	D007674
+renal failure	D051437
+renal failure	D051437
+renal failure	D051437
+Wiskott-Aldrich syndrome	D014923
+renal disease	D007674
+Myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+muscular disorder	D009135
+DM	D009223
+hereditary retinoblastoma	D012175
+familial or sporadic bilateral retinoblastoma	D012175
+Aniridia	D015783
+aniridia	D015783
+absence of iris	D015783
+aniridia	D015783
+cholesteryl ester transfer protein deficiency	OMIM:143470
+cholesteryl ester transfer protein (CETP) deficiency	OMIM:143470
+CETP deficiency	OMIM:143470
+genetic deficiency	D030342
+X-linked glucose-6-phosphate dehydrogenase deficiency	D005955
+X-linked glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+X-linked G6PD deficiency	D005955
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+nonketotic hyperglycinemia	D020158
+nonketotic hyperglycinemia	D020158
+NKH	D020158
+in-born error of metabolism	D008661
+neurological disturbance	D009461
+NKH	D020158
+NKH	D020158
+NKH	D020158
+Growth retardation	D006130
+tumour	D009369
+breast and ovarian cancer	D061325
+breast and ovarian cancer	D001943|D010051
+breast and ovarian cancer	D001943|D010051
+colon or lung cancer	D003110|D008175
+breast cancer	D001943
+ovarian cancer	D010051
+MCF-7 tumours	D009369
+MCF-7 tumours	D009369
+tumour	D009369
+DMD	D020388
+X-linked dilated cardiomyopathy	D002311
+X-linked dilated cardiomyopathy	D002311
+XLDCM	D002311
+dystrophinopathy	D009136
+myocardial involvement	D009202
+skeletal myopathy	D009135
+Duchenne muscular dystrophy	D020388
+XLDCM	D002311
+XLDCM	D002311
+XLDCM	D002311
+XLDCM	D002311
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+fatal lymphoreticular disease	D008206
+Wiskott-Aldrich syndrome	D014923
+Saethre-Chotzen syndrome	OMIM:101400
+Saethre-Chotzen syndrome	OMIM:101400
+autosomal dominant condition	D030342
+craniosynostosis	D003398
+limb anomalies	D017880
+Saethre-Chotzen syndrome	OMIM:101400
+coronal synostosis	D003398
+brachycephaly	D003398
+low frontal hairline	D019465
+facial asymmetry	D005146
+ptosis	D001763
+hypertelorism	D006972
+broad great toes	D005532
+clinodactyly	C536852
+craniosynostotic condition	D003398
+Saethre-Chotzen, Crouzon, and Pfeiffer syndromes	OMIM:101400|OMIM:123500|OMIM:101600
+ankylosing spondylitis	D013167
+Ankylosing spondylitis	D013167
+ankylosing spondylitis	D013167
+ankylosing spondylitis	D013167
+hereditary breast and ovarian cancer	D061325
+breast and/or ovarian cancer	D001943|D010051
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-merzbacher disease	OMIM:312080
+PMD	OMIM:312080
+PMD	OMIM:312080
+G6PD deficiency	D005955
+hereditary hemochromatosis	D006432
+hemochromatosis	D006432
+hereditary hemochromatosis	D006432
+prostate cancer	D011471
+Sporadic prostate carcinoma	D011471
+male cancer	D005834
+cancer	D009369
+sporadic prostate cancer	D011471
+tumor	D009369
+prostate cancer	D011471
+prostate tumors	D011471
+tumors	D009369
+sporadic prostate cancer	D011471
+Norrie disease	C537849
+ND	C537849
+ND	C537849
+Norrie disease	C537849
+ND	C537849
+ND	C537849
+ND	C537849
+ND	C537849
+ND	C537849
+X-linked recessive neurological disorder	D020271
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+neurofibrosarcomas	D018319
+tumor	D009369
+solid tumors	D009369
+gastric cancers	D013274
+esophageal cancers	D004938
+bone and soft tissue tumors	D001859|D012983
+neurofibrosarcomas	D018319
+tumor	D009369
+esophageal cancers	D004938
+glioma	D005910
+glioblastomas	D005909
+neurofibrosarcoma	D018319
+neurofibrosarcoma	D018319
+neurofibrosarcoma	D018319
+neurofibrosarcoma	D018319
+neurofibrosarcoma	D018319
+mucopolysaccharidosis IVA	OMIM:253000
+Mucopolysaccharidosis IVA	OMIM:253000
+MPS IVA	OMIM:253000
+autosomal recessive lysosomal storage disorder	D016464
+genetic defect	D030342
+MPS IVA	OMIM:253000
+MPS IVA	OMIM:253000
+MPS IVA	OMIM:253000
+essential fructosuria	C538068
+Essential fructosuria	C538068
+inborn errors of metabolism	D008661
+deficiency of hepatic fructokinase	C538068
+essential fructosuria	C538068
+essential fructosuria	C538068
+fructosuria	C538068
+ataxia-telangiectasia	D001260
+Ataxia-telangiectasia	D001260
+A-T	D001260
+cancer	D009369
+neurodegeneration	D019636
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+Bechterew's syndrome	D013167
+ankylosing spondylitis	D013167
+ankylosing spondylitis	D013167
+ankylosing spondylitis	D013167
+psoriatic arthropathy	D015535
+entero-arthropathy	C538273+D001168
+sacro-iliitis	D058566
+psoriasis	D011565
+psoriasis	D011565
+sacro-iliitis	D058566
+psoriasis	D011565
+acute anterior uveitis	D014606
+arthropathy	D007592
+inflammatory bowel disease	D015212
+HEREDITARY MULTIFOCAL RELAPSING INFLAMMATION	D007249+D030342
+HEMRI	D007249+D030342
+Ankylosing spondylitis	D013167
+psoriatic arthropathy	D015535
+entero-arthropathy	C538273+D007592
+Huntington disease	D006816
+retinal degeneration	D012162
+hereditary retinopathies	D015785
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HPRT-APRT-deficient	OMIM:300322+OMIM:102600
+lesch-nyhan syndrome	D007926
+Complete hypoxanthine-guanine phosphoribosyl-transferase (HPRT) deficiency	D007926
+Lesch-Nyhan syndrome	D007926
+HPRT-deficient	D007926
+Lesch-Nyhan syndrome	D007926
+HPRT-deficient	D007926
+deficiency of APRT	OMIM:102600
+HPRT-deficiency	D007926
+HPRT-APRT-deficient	OMIM:300322+OMIM:102600
+APRT deficiency	OMIM:102600
+APRT-HPRT-deficient	OMIM:300322+OMIM:102600
+behavioral abnormalities	D001523
+Lesch-Nyhan syndrome	D007926
+myotonic dystrophy	D009223
+myopathy	D009135
+Myotonic dystrophy	D009223
+DM	D009223
+autosomal dominant disorder	D030342
+DM	D009223
+Dmpk deficient	OMIM:160900
+progressive skeletal myopathy	D009135
+DM	D009223
+fibre degeneration	D020966
+fibrosis	D005355
+DM	D009223
+Ovarian Cancer	D010051
+breast and/or ovarian cancer	OMIM:604370
+breast/ovarian cancer	OMIM:604370
+breast and/or ovarian cancer	OMIM:604370
+Hereditary deficiency of the fifth component of complement	OMIM:609536
+C5-deficient	OMIM:609536
+hereditary deficiency of the fifth component of complement	OMIM:609536
+C5-deficient	OMIM:609536
+C5D	OMIM:609536
+C5D	OMIM:609536
+systemic lupus erythematosus	D008180
+C5 deficiency	OMIM:609536
+C5D	OMIM:609536
+C5D	OMIM:609536
+paroxysmal nocturnal hemoglobinuria	D006457
+lipomas	D008067
+lipomas	D008067
+lipoma	D008067
+lipoma	D008067
+lipoma	D008067
+primary lipomas	D008067
+familial Mediterranean fever	D010505
+Familial Mediterranean fever	D010505
+FMF	D010505
+recessive disorder	D030342
+fever	D005334
+neutrophil-mediated serosal inflammation	D007249
+FMF	D010505
+tumor	D009369
+cancer	D009369
+tumor	D009369
+malignant rhabdoid tumors	D018335
+tumors	D009369
+rhabdoid tumors	D018335
+tumors	D009369
+choroid plexus carcinomas	D020288
+neuroectodermal tumors	D017599
+medulloblastomas	D008527
+breast cancers	D001943
+Wilms tumors	D009396
+gliomas	D005910
+ependymomas	D004806
+sarcomas	D012509
+tumor	D009369
+rhabdoid tumors	D018335
+choroid plexus carcinomas	D020288
+medulloblastomas	D008527
+cancers	D009369
+rhabdoid	D018335
+glucose-6-phosphate dehydrogenase deficiency	D005955
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+G6PD deficiency	D005955
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+Friedreichs ataxia	D005621
+Fragile X syndrome	D005600
+fragile X syndrome	D005600
+fragile X	D005600
+fragile X	D005600
+fragile X	D005600
+fragile X syndrome	D005600
+Van der Woude syndrome	C536528
+Van der Woude syndrome	C536528
+VWS	C536528
+autosomal dominant craniofacial disorder	D019465
+cleft lip	D002971
+cleft palate	D002972
+lip pits	C536528
+hypodontia	D000848
+VWS	C536528
+VWS	C536528
+VWS	C536528
+VWS	C536528
+VWS	C536528
+VWS	C536528
+VWS	C536528
+melanoma	D008545
+Familial Melanoma	D008545
+melanoma	D008545
+melanoma	D008545
+familial melanoma	D008545
+melanoma	D008545
+inherited breast cancer	D061325
+breast and ovarian cancer	D061325
+breast cancer	D001943
+ovarian cancer	D010051
+breast or ovarian cancer	D001943|D010051
+cancer	D009369
+cancer	D009369
+breast and/or ovarian cancer	D001943|D010051
+hypobetalipoproteinemia	D006995
+developmental abnormalities	D006130
+Familial hypobetalipoproteinemia	D052476
+autosomal codominant disorder	D030342
+hypobetalipoproteinemia	D006995
+coronary vascular disease	D003323
+hypobetalipoproteinemia	D006995
+hypobetalipoproteinemia	D006995
+chylomicronemia	OMIM:238600
+exencephalus	D009436
+hydrocephalus	D006849
+hypobetalipoproteinemia	D006995
+atherogenesis	D050197
+exencephalus	D009436
+hydrocephalus	D006849
+prostate cancer	D011471
+hereditary breast cancer	D001943
+prostate cancer	D011471
+prostate cancer	D011471
+prostate cancer	D011471
+prostate cancer	D011471
+prostate cancer	D011471
+breast and ovarian cancers	D001943|D010051
+prostate cancer	D011471
+hereditary non-spherocytic hemolytic anemia	D000746
+hereditary nonspherocytic hemolytic anemia	D000746
+HNSHA	D000746
+G6PD deficiency	D005955
+HNSHA	D000746
+G6PD deficiency	D005955
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+breast cancer	D001943
+breast and ovarian cancer	D001943+D010051
+breast cancer	D001943
+ovarian cancer	D010051
+breast cancer	D001943
+ovarian cancer	D010051
+prostatic cancer	D011471
+breast cancer	D001943
+breast cancer	D001943
+ovarian cancer	D010051
+breast cancers	D001943
+DM	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2-deficient	OMIM:217000
+Hodgkins disease	D006689
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+benign familial neonatal convulsions	D020936
+autosomal dominant nocturnal frontal lobe epilepsy	D017034
+autosomal dominant nocturnal frontal lobe epilepsy	D017034
+idiopathic epilepsies	D004827
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+Alzheimer disease	D000544
+neurological diseases	D020271
+HD	D006816
+HD	D006816
+HD	D006816
+neurodegeneration	D019636
+HD	D006816
+familial adenomatous polyposis	D011125
+familial adenomatous polyposis	D011125
+FAP	D011125
+FAP	D011125
+colorectal carcinomas	D015179
+FAP	D011125
+APC	D011125
+FAP	D011125
+APC	D011125
+colorectal cancer	D015179
+Autosomal dominant neurohypophyseal diabetes insipidus	OMIM:125700
+diabetes insipidus	D003919
+diabetes insipidus	D003919
+autosomal dominant neurohypophyseal diabetes insipidus	OMIM:125700
+APC tumor	D011125
+colorectal cancer	D015179
+APC	D011125
+APC	D011125
+tumor	D009369
+Myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+hereditary coproporphyria	D046349
+Hereditary coproporphyria	D046349
+HC	D046349
+hepatic porphyria	D017094
+deficient activity of coproporphyrinogen III oxidase	D046349
+neurological dysfunction	D009422
+infectious diseases	D003141
+HC	D046349
+HC	D046349
+gene defects	D030342
+von Hippel-Lindau	D006623
+VHL	D006623
+VHL	D006623
+von Hippel-Lindau (VHL) disease	D006623
+autosomal dominantly inherited cancer syndrome	D009386
+tumor	D009369
+hemangioblastomas	D018325
+hemangioblastomas	D018325
+renal cell carcinomas	D002292
+pancreatic cysts and tumors	D010181|D010190
+pheochromocytomas	D010673
+endolymphatic sac tumors	D036821
+epididymal cystadenomas	D003537
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL gene abnormality	D006623
+breast cancer	D001943
+tumor	D009369
+breast and ovarian cancer	D001943|D010051
+breast cancer	D001943
+BRCA1 abnormalities	OMIM:604370
+breast cancers	D001943
+myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+ankylosing spondylitis	D013167
+ankylosing spondylitis	D013167
+AS	D013167
+peripheral arthritis	D001168
+peripheral psoriatic arthritis	D015535
+ankylosing spondylitis	D013167
+ulcerative colitis	D003093
+ulcerative colitis	D003093
+ankylosing spondylitis	D013167
+psoriasis	D011565
+inflammatory bowel disease	D015212
+ankylosing spondylitis	D013167
+spondylitis	D013166
+ulcerative colitis	D003093
+spondylitis	D013166
+ankylosing spondylitis	D013167
+ankylosing spondylitis	D013167
+metachromatic leukodystrophy	D007966
+Metachromatic Leukodystrophy	D007966
+MLD	D007966
+neurodegenerative disease	D019636
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+APC tumor	D011125
+familial adenomatous polyposis	D011125
+adenomatous polyposis coli (APC) tumor	D011125
+hereditary colorectal cancer syndrome	D015179
+familial adenomatous polyposis	D011125
+FAP	D011125
+APC	D011125
+FAP	D011125
+FAP	D011125
+APC	D011125
+APC	D011125
+Familial male breast cancer	D018567
+Breast cancer	D001943
+male breast cancer	D018567
+hereditary breast and ovarian cancer	D061325
+breast cancer	D001943
+male breast cancer	D018567
+male breast cancer	D018567
+Machado-Joseph disease	D017827
+Machado-Joseph disease	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+MJD	D017827
+anhaptoglobinemia	D000740
+anhaptoglobinemia	D000740
+anhaptoglobinemia	D000740
+hypohaptoglobinemia	D000740
+hypohaptoglobinemic	D000740
+hypohaptoglobinemic	D000740
+anhaptoglobinemia	D000740
+hypohaptoglobinemia	D000740
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+familial breast cancer	D001943
+breast cancer	D001943
+breast/ovarian cancer	D061325
+breast cancer	D001943
+ovarian cancer	D010051
+breast and/or ovarian cancer	D001943|D010051
+breast cancer	D001943
+breast-ovarian cancer	D061325
+breast and/or ovarian cancer	D001943|D010051
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+G6PD deficiency	D005955
+APC	D011125
+attenuated familial adenomatous polyposis	C538265
+adenomatous polyposis coli (APC) tumor	D011125
+familial adenomatous polyposis	D011125
+FAP	D011125
+FAP	D011125
+benign colorectal tumors	D015179
+colorectal cancer	D015179
+APC	D011125
+attenuated FAP	C538265
+AFAP	C538265
+tumors	D009369
+APC	D011125
+AFAP	C538265
+AFAP	C538265
+AFAP	C538265
+APC	D011125
+tumor	D009369
+APC	D011125
+colorectal tumors	D015179
+tumors	D009369
+colorectal tumors	D015179
+FAP	D011125
+APC	D011125
+colorectal tumors	D015179
+WAGR	D017624
+WAGR	D017624
+Wilms tumor	D009396
+aniridia	D015783
+genitourinary abnormalities	D014564
+mental retardation	D008607
+aniridia	D015783
+Wilms tumor	D009396
+aniridia	D015783
+aniridia	D015783
+Wilms tumor	D009396
+WAGR	D017624
+Wilms tumor	D009396
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+autoimmune lymphoproliferative syndrome	D056735
+autoimmune lymphoproliferative syndrome	D056735
+ALPS	D056735
+ALPS	D056735
+splenomegaly	D013163
+lymphadenopathy	D008206
+autoimmune manifestations	D001327
+Wilson disease	D006527
+Wilson disease	D006527
+Wilson disease	D006527
+WND	D006527
+WND	D006527
+WND	D006527
+WND	D006527
+Wilson disease	D006527
+attenuated adenomatous polyposis coli	C538265
+tumor	D009369
+attenuated adenomatous polyposis coli	C538265
+AAPC	C538265
+familial adenomatous polyposis	D011125
+FAP	D011125
+AAPC	C538265
+colonic adenomas	D018256
+colorectal cancer	D015179
+AAPC	C538265
+APC	D011125
+AAPC	C538265
+APC	D011125
+APC	D011125
+colorectal adenomas	D018256
+adenomas	D000236
+AAPC	C538265
+colorectal adenomas	D018256
+rectal polyp	D011127
+desmoid tumors	D018222
+AAPC	C538265
+APC	D011125
+FAP	D011125
+Prader-Willi syndrome	D011218
+PWS	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+von Hippel-Lindau	D006623
+papillary cystadenoma of the epididymis	D018292
+Papillary cystadenoma of the epididymis	D018292
+von Hippel-Lindau (VHL) disease	D006623
+VHL	D006623
+papillary cystadenoma of the epididymis	D018292
+metastatic renal cell carcinoma	C538445
+papillary cystadenoma	D018292
+renal cell carcinoma	D002292
+von Hippel-Lindau disease	D006623
+VHL	D006623
+VHL	D006623
+tumors	D009369
+VHL	D006623
+tumor	D009369
+VHL	D006623
+cystadenomas of the epididymis	D003537
+breast-ovarian cancer	D061325
+Breast Cancer	D001943
+breast-ovary cancer-family syndrome	D061325
+cancer of the breast and ovaries	D001943|D010051
+breast-ovary cancer	D061325
+breast and ovarian cancer	D001943|D010051
+breast cancer	D001943
+ovarian cancer	D010051
+ovarian cancer	D010051
+male breast cancer	D018567
+male breast cancer	D018567
+ovarian cancers	D010051
+breast-ovarian cancer-family syndrome	D061325
+breast cancer	D001943
+ovarian cancer	D010051
+breast and ovarian cancer	D001943|D010051
+breast cancer	D001943
+ovarian cancer	D010051
+breast cancer	D001943
+breast cancer	D001943
+breast and ovarian cancer	D001943|D010051
+breast or ovarian cancer	D001943|D010051
+breast cancer	D001943
+breast cancer	D001943
+van der Woude syndrome	C536528
+van der Woude syndrome	C536528
+VWS	C536528
+oral cleft	D002971|D002972
+cleft palate	D002972
+CP	D002972
+cleft lip	D002971
+CP	D002972
+CLP	D002971
+lip pits	C536528
+fistulae	D005402
+CLP	D002971
+CP	D002972
+VWS	C536528
+CLP	D002971
+CP	D002972
+CP	D002972
+CLP	D002971
+VWS	C536528
+Lip pits	C536528
+VWS	C536528
+VWS	C536528
+VWS	C536528
+lip pits	C536528
+lip pits	C536528
+VWS	C536528
+VWS	C536528
+APC	D011125
+colorectal tumors	D015179
+familial adenomatous polyposis	D011125
+FAP	D011125
+autosomal dominant disease	D030342
+colorectal adenomas and carcinoma	D018256|D015179
+APC	D011125
+FAP	D011125
+attenuated adenomatous polyposis coli	C538265
+APC	D011125
+Attenuated adenomatous polyposis coli	C538265
+colorectal adenomas	D000236
+FAP	D011125
+adenomas	D000236
+APC	D011125
+APC	D011125
+colorectal tumors	D015179
+adenomas	D000236
+colorectal adenomas and/or carcinoma	D018256|D015179
+APC	D011125
+metaplastic polyps of the colorectum	D003111
+APC	D011125
+colorectal adenomas and carcinoma	D018256|D015179
+FAP	D011125
+colorectal cancer	D015179
+hemochromatosis	D006432
+Hemochromatosis	D006432
+inherited disorder of iron metabolism	D019189
+iron overload	D019190
+premature death	D003643
+hemochromatosis	D006432
+hemochromatosis	D006432
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+Becker muscular dystrophy	C537666
+BMD	C537666
+DMD	D020388
+DMD	D020388
+BMD	C537666
+BMD	C537666
+DMD	D020388
+BMD	C537666
+Pelizaeus-Merzbacher Disease	OMIM:312080
+Brain Dysmyelinating Disease	D020279
+Pelizaeus-Merzbacher Disease	OMIM:312080
+PMD	D020371
+X-linked developmental defect of myelination	D020279
+PMD	D020371
+phenylketonuria	D010661
+phenylketonuria	D010661
+PKU	D010661
+PKU	D010661
+VLCAD-deficient	C536353
+VLCAD deficiency	C536353
+deficiency of the normal VLCAD protein	C536353
+VLCAD deficiency	C536353
+retinoblastoma (RB) tumor	D012175
+RB tumors	D012175
+RB tumors	D012175
+tumors	D009369
+RB tumors	D012175
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+WAGR contiguous gene syndrome	D017624
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+phenylketonuria	D010661
+Classical Phenylketonuria	D010661
+PKU	D010661
+autosomal recessive human genetic disorder	D030342
+deficiency of hepatic phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+Wolfram syndrome	OMIM:222300
+Wolfram syndrome	OMIM:222300
+autosomal recessive neurodegenerative disorder	D020271
+juvenile-onset diabetes mellitus	D003922
+optic atrophy	D009896
+Wolfram syndrome	OMIM:222300
+Wolfram syndrome	OMIM:222300
+Wolfram syndrome	OMIM:222300
+psychiatric disorders	D001523
+diabetes mellitus	D003920
+Maternal uniparental disomy for chromosome 14	D024182
+maternal uniparental disomy for chromosome 14	D024182
+UPD	D024182
+Prader-Willi syndrome	D011218
+PWS	D011218
+short stature	D006130
+obesity	D009765
+developmental delay	D002658
+cryptorchidism	D003456
+dysmorphic features	D000013
+intrauterine growth retardation	D005317
+hypotonia	D009123
+obese	D009765
+middle ear infections	D010033
+Prader-Willi syndrome	D011218
+PWS	D011218
+UPD	D024182
+maternal heterodisomy	D024182
+UPD	D024182
+UPD	D024182
+PWS	D011218
+breast/ovarian cancer	D061325
+male breast cancer	D018567
+familial breast cancer	D001943
+familial breast/ovarian cancer	D061325
+cancer	D009369
+ovarian or breast cancer	D001943|D010051
+breast and prostate cancer	D001943|D011471
+intra-abdominal carcinomatosis	D000008+D002277
+inherited breast and ovarian cancer	D061325
+male breast cancer	D018567
+Color vision defects	D003117
+adrenomyeloneuropathy	D000326
+abnormal color vision	D003117
+adrenomyeloneuropathy	D000326
+AMN	D000326
+AMN	D000326
+AMN	D000326
+abnormal color vision	D003117
+AMN	D000326
+adrenoleukodystrophy	D000326
+contiguous gene defects	D025063
+Duchenne and Becker muscular dystrophy	D020388|C537666
+Duchenne and Becker muscular dystrophy	D020388|C537666
+DMD	D020388
+BMD	C537666
+DMD	D020388
+DMD	D020388
+DMD	D020388
+BMD	C537666
+BMD	C537666
+DMD	D020388
+non-papillary renal cell carcinomas	D002292
+VHL	D006623
+sporadic renal cell carcinomas	D002292
+parenchymal tumours of the kidney	D007674
+VHL	D006623
+non-papillary renal cell carcinomas	D002292
+renal cell carcinomas	D002292
+non-papillary renal cell carcinomas	D002292
+renal cell carcinomas	D002292
+papillary renal cell tumours	D002292
+renal oncocytomas	C537750
+VHL	D006623
+tumours	D009369
+VHL	D006623
+non-papillary renal cell carcinoma	D002292
+Wilson disease	D006527
+Wilson disease	D006527
+Wilson disease	D006527
+Wilson disease	D006527
+Wilson disease	D006527
+Norrie disease	C537849
+Norrie disease	C537849
+Norrie disease	C537849
+normotriglyceridemic abetalipoproteinemia	D000012
+Normotriglyceridemic abetalipoproteinemia	D000012
+familial disorder	D009358
+deficiency of apoB-100	OMIM:200100
+genetic abnormalities	D030342
+breast-ovarian cancer	D061325
+cancer	D009369
+breast or ovarian cancer	D001943|D010051
+cancer	D009369
+breast and ovarian cancers	D001943|D010051
+ovarian cancers	D010051
+breast cancers	D001943
+BRCA1 abnormalities	OMIM:604370
+ovarian cancer	D010051
+breast and ovarian cancer	D001943|D010051
+breast cancer	D001943
+breast-ovarian cancer syndrome	D061325
+BRCA1 abnormalities	OMIM:604370
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+AT	D001260
+AT	D001260
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+Tumor	D009369
+prostate carcinoma	D011471
+Prostate cancer	D011471
+cancer	D009369
+prostate carcinomas	D011471
+prostate carcinomas	D011471
+prostatic adenocarcinoma	D011471
+prostate adenocarcinoma	D011471
+prostate carcinoma	D011471
+prostatic adenocarcinoma	D011471
+atelosteogenesis type 2	C535395
+diastrophic dysplasia	C536170
+diastrophic dysplasia	C536170
+chondrodysplasias	D010009
+diastrophic dysplasia	C536170
+DTD	C536170
+atelosteogenesis type 2	C535395
+AO2	C535395
+achondrogenesis type 1B	C536016
+ACG1B	C536016
+DTDST chondrodysplasias	OMIM:222600
+AO-2	C535395
+DTD	C536170
+AO2	C535395
+DTD	C536170
+DTD	C536170
+AO2	C535395
+DTD	C536170
+AO2	C535395
+AO2	C535395
+DTD	C536170
+ACG1B	C536016
+spinocerebellar ataxia 3/Machado-Joseph disease	D017827
+spinocerebellar ataxia 3	D017827
+SCA3	D017827
+type I autosomal dominant cerebellar ataxia	OMIM:109150
+ADCA type I	OMIM:109150
+neurodegenerative disorders	D019636
+ADCA type I	OMIM:109150
+SCA3	D017827
+Machado-Joseph disease	D017827
+MJD	D017827
+ADCA type I	OMIM:109150
+dentatorubropallidoluysian atrophy	OMIM:125370
+MJD	D017827
+breast and ovarian cancer	D061325
+deficient in BRCA1	OMIM:604370
+adrenoleukodystrophy	D000326
+X-linked adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+Abnormal color vision	D003117
+adrenomyeloneuropathy	D000326
+AMN	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+abnormal color vision	D003117
+ALD	D000326
+phenotypic color vision defects	D003117
+ALD	D000326
+ALD	D000326
+AMN	D000326
+ALD	D000326
+AMN	D000326
+color vision anomalies	D003117
+color vision anomalies	D003117
+AMN	D000326
+von Willebrand disease	D014842
+thrombosis	D013927
+von Willebrand factor (vWf) deficiency	C531844
+von Willebrand disease	D014842
+vWf-deficient	C531844
+von Willebrand	D014842
+thrombosis	D013927
+vascular injury	D057772
+von Willebrand disease	D014842
+Haim-Munk syndrome	C537627
+Papillon-Lefevre syndrome	D010214
+palmoplantar keratoderma (PPK) conditions	D007645
+Papillon-Lefevre syndrome	D010214
+PLS	D010214
+Haim-Munk syndrome	C537627
+HMS	C537627
+PLS	D010214
+HMS	C537627
+PPK	D007645
+periodontitis	D010518
+HMS	C537627
+arachnodactyly	D054119
+acro-osteolysis	D030981
+atrophic changes of the nails	D009260
+radiographic deformity of the fingers	D006226
+PLS	D010214
+HMS	C537627
+PLS	D010214
+HMS	C537627
+genetic defect	D030342
+PLS	D010214
+HMS	C537627
+PLS	D010214
+HMS	C537627
+HMS	C537627
+HMS	C537627
+PLS	D010214
+PLS	D010214
+HMS	C537627
+deficiency of glycosyl phosphatidylinositol (GPI) -anchored proteins	C537277
+paroxysmal nocturnal hemoglobinuria	D006457
+GPI-anchor deficiency	C537277
+embryonic lethality	D020964
+paroxysmal nocturnal hemoglobinuria	D006457
+Norrie disease	C537849
+Norrie disease	C537849
+X-linked recessive disorder	D040181
+congenital blindness	D057130
+sensory neural deafness	D006319
+mental retardation	D008607
+Norrie disease	C537849
+Norrie disease	C537849
+von Hippel-Lindau tumor	D006623
+von Hippel-Lindau (VHL) tumor	D006623
+VHL cancer syndrome	D006623
+sporadic renal cell carcinomas	D002292
+RCC	D002292
+brain hemangioblastomas	D018325
+RCC	D002292
+VHL	D006623
+cancer	D009369
+VHL	D006623
+RCC cancer	D002292
+RCC	D002292
+VHL	D006623
+VHL	D006623
+tumor	D009369
+VHL	D006623
+VHL	D006623
+tumor	D009369
+complement C9 deficiency	OMIM:613825
+Deficiency of the ninth component of human complement	OMIM:613825
+complement deficiency	D007153
+C9 deficiency	OMIM:613825
+C9-deficient	OMIM:613825
+meningococcal meningitis	D008585
+C9-deficient	OMIM:613825
+C9 deficiency	OMIM:613825
+Human complement factor H deficiency	OMIM:609814
+hemolytic uremic syndrome	D006463
+deficiency in the human complement regulatory protein Factor H	OMIM:609814
+acute renal disease	D007674
+hemolytic uremic syndrome	D006463
+HUS	D006463
+Factor H deficiency	OMIM:609814
+complement deficiency	D007153
+HUS	D006463
+HUS	D006463
+breast and ovarian cancer	D061325
+tumor	D009369
+tumor	D009369
+Glucose-6-phosphate dehydrogenase (G6PD; E. C. 1. 1. 1. 49) deficiency	D005955
+enzymopathy	D008661
+G6PD deficiency	D005955
+idiopathic ventricular fibrillation	C537182
+Ventricular fibrillation	D014693
+idiopathic ventricular fibrillation	C537182
+IVF	C537182
+IVF	C537182
+sudden death	D003645
+IVF	C537182
+IVF	C537182
+IVF	C537182
+IVF	C537182
+APC	D011125
+colorectal cancer	D015179
+colorectal cancer	D015179
+APC	D011125
+colorectal cancer	D015179
+colorectal cancer	D015179
+neoplasia	D009369
+colorectal cancer	D015179
+cancer	D009369
+cancer	D009369
+Colorectal neoplasia	D015179
+neoplasia	D009369
+colorectal, or other, cancers	D009369|D015179
+colorectal cancer	D015179
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+maternal disomy for chromosome 15	C538037
+PWS	D011218
+PWS	D011218
+PWS	D011218
+ankylosing spondylitis	D013167
+ankylosing spondylitis	D013167
+AS	D013167
+AS	D013167
+Rheumatic Diseases	D012216
+AS	D013167
+AS	D013167
+AS	D013167
+alkaptonuria	D000474
+alkaptonuria	D000474
+alkaptonuria	D000474
+cancer	D009369
+cartilage-hair hypoplasia	C535916
+cancer	D009369
+cartilage-hair hypoplasia	C535916
+CHH	C535916
+CHH	C535916
+CHH	C535916
+cancer	D009369
+cancer	D009369
+CHH	C535916
+non-Hodgkins lymphoma	D008228
+basal cell carcinoma	D002280
+cancer	D009369
+cancer	D009369
+cancer	D009369
+non-Hodgkins lymphoma	D008228
+CHH	C535916
+G6PD deficiency	D005955
+DiGeorge syndrome	D004062
+DiGeorge syndrome	D004062
+DGS	D004062
+aplasia or hypoplasia of the thymus and parathyroid glands	C536288|D007011
+conotruncal cardiac malformations	C535464
+DGS	D004062
+DGS	D004062
+DGS	D004062
+DGS	D004062
+DGS	D004062
+DGS	D004062
+DGS	D004062
+myotonic dystrophy	D009223
+myopathy	D009135
+Myotonic dystrophy	D009223
+DM	D009223
+hypertrophic cardiomyopathy	D002312
+DM	D009223
+atrophy	D001284
+myotonia	D009222
+cataract	D002386
+male-infertility	D007248
+fragile X	D005600
+mental retardation	D008607
+fragile X syndrome	D005600
+fragile X syndrome	D005600
+breast and ovarian carcinomas	D001943|D010051
+familial tumors	D009386
+ovarian and early-onset	D010051
+breast cancer	D001943
+tumor	D009369
+sporadic breast and ovarian cancers	D001943|D010051
+tumors	D009369
+breast and ovarian tumors	D001943|D010051
+ovarian carcinomas	D010051
+cancers	D009369
+breast and ovarian cancers	D001943|D010051
+tumor	D009369
+Ewing sarcoma	D012512
+neuroectodermal tumors	D017599
+Ewing tumors	D012512
+aniridia	D015783
+Aniridia	D015783
+congenital malformation of the eye	D005124
+iris hypoplasia	D007499
+blindness	D001766
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+autosomal recessive ataxia	OMIM:610743
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+Haploinsufficiency of the transcription factors FOXC1 and FOXC2	OMIM:602482|OMIM:153400
+Anterior segment developmental disorders	C537775
+Axenfeld-Rieger anomaly	C535679
+ARA	C535679
+glaucoma	D005901
+glaucoma	D005901
+anterior segment defects	C537775
+glaucoma	D005901
+anterior segment abnormalities	C537775
+iris hypoplasia	D007499
+ARA	C535679
+glaucoma	D005901
+combined subtotal deficiencies of C6 and C7	OMIM:612446|OMIM:610102
+C6 and C7 deficiencies	OMIM:612446|OMIM:610102
+Combined subtotal deficiency of C6 and C7	OMIM:612446|OMIM:610102
+C6 or C7 deficiency	OMIM:612446|OMIM:610102
+C6-deficient	OMIM:612446
+dermatofibrosarcoma protuberans	C538219
+Dermatofibrosarcoma protuberans	C538219
+DFSP	C538219
+tumors	D009369
+tumor	D009369
+DFSP	C538219
+tumor	D009369
+DFSP	C538219
+giant cell fibroblastoma	C538219
+phenylketonuria	D010661
+phenylketonuria	D010661
+PKU	D010661
+PKU	D010661
+PKU	D010661
+PKU	D010661
+retinoblastoma	D012175
+retinoblastoma	D012175
+familial Mediterranean fever	D010505
+FMF	D010505
+familial Mediterranean fever	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+FMF	D010505
+amyloidosis	D000686
+chronic arthritis	D001168
+myalgia	D059352
+FMF	D010505
+FMF	D010505
+hereditary glucose/galactose malabsorption	OMIM:606824
+diarrhea	D003967
+diarrhea	D003967
+glucose/galactose malabsorption	OMIM:606824
+glucose/galactose malabsorption	OMIM:606824
+rare diseases	D035583
+ataxia-telangiectasia	D001260
+AT	D001260
+Nijmegen breakage syndrome	D049932
+NBS	D049932
+phenotypic abnormalities	D004194
+chromosomal instability	D043171
+AT	D001260
+NBS	D049932
+NBS	D049932
+NBS	D049932
+phenylketonuria	D010661
+Classical phenylketonuria	D010661
+autosomal recessive disease	D030342
+deficiency of hepatic phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+PAH deficiencies	OMIM:261600
+tumor	D009369
+breast cancer	D001943
+metastatic tumors	D009362
+tumor	D009369
+breast cancer	D001943
+breast carcinomas	D001943
+cancers	D009369
+breast cancer	D001943
+breast cancer	D001943
+ataxia-telangiectasia	D001260
+Nijmegen breakage syndrome	D049932
+Ataxia-telangiectasia	D001260
+A-T	D001260
+Nijmegen breakage syndrome	D049932
+NBS	D049932
+recessive genetic disorders	D030342
+cancer	D009369
+A-T	D001260
+Nijmegen breakage syndrome	D049932
+hypersensitivity to ionizing radiation	D004194
+genetic diseases	D030342
+myotonic dystrophy	D009223
+DM	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+myotonic dystrophy	D009223
+Prader-Willi syndrome	D011218
+Angelman syndrome	D017204
+Prader-Willi syndrome	D011218
+PWS	D011218
+Angelman syndrome	D017204
+AS	D017204
+PWS	D011218
+PWS	D011218
+PWS	D011218
+breast cancer	D001943
+ovarian cancer	D010051
+inherited breast-ovarian cancer	D061325
+ovarian cancers	D010051
+cancer	D009369
+breast and/or ovarian cancer	D001943|D010051
+breast and/or ovarian cancer	D001943|D010051
+ovarian cancers	D010051
+breast cancers	D001943
+breast cancer	D001943
+ovarian cancer	D010051
+subtotal complement C6 deficiency	OMIM:612446
+subtotal complement C6 deficiency	OMIM:612446
+subtotal C6 and complete C6 deficiency	OMIM:612446
+cancer	D009369
+familial adenomatous polyposis	D011125
+FAP	D011125
+autosomal dominant disorder	D030342
+polyps	D011127
+colorectal cancer	D015179
+CRC	D015179
+APC	D011125
+tumours	D009369
+CRC	D015179
+cancer	D009369
+colorectal, breast and other cancers	D001943|D015179|D009369
+VHL	D006623
+sporadic renal cell carcinoma	D002292
+VHL	D006623
+RCC	D002292
+von Hippel-Lindau	D006623
+VHL	D006623
+renal cell carcinomas	D002292
+VHL tumor	D006623
+VHL	D006623
+nonpapillary renal cell carcinoma	D002292
+RCC	D002292
+VHL	D006623
+VHL	D006623
+sporadic RCC	D002292
+RCC	D002292
+VHL	D006623
+RCC	D002292
+VHL	D006623
+RCC	D002292
+VHL	D006623
+hemochromatosis	D006432
+hereditary hemochromatosis	D006432
+hereditary hemochromatosis	D006432
+Emery-Dreifuss muscular dystrophy	D020389
+Emery-Dreifuss muscular dystrophy	D020389
+EMDM	D020389
+EDMD	D020389
+Machado-Joseph disease	D017827
+Machado-Joseph disease	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+MJD	D017827
+atrophic benign epidermolysis bullosa	D016109
+atrophic benign epidermolysis bullosa	D016109
+atrophic benign epidermolysis bullosa	D016109
+Myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+hereditary hemochromatosis	D006432
+Hereditary hemochromatosis	D006432
+HH	D006432
+autosomal recessive disorder	D030342
+HH	D006432
+dietary iron deficiency	D018798
+familial polyposis APC	D011125
+colorectal carcinoma	D015179
+APC	D011125
+adenomatous polyposis coli	D011125
+familial adenomatous polyposis	D011125
+APC	D011125
+polyposis	D011125
+APC	D011125
+colorectal tumor	D015179
+Analbuminemia	OMIM:103600
+Analbuminemia	OMIM:103600
+atopic dermatitis	D003876
+bronchial asthma	D001249
+seizure disorder	D004827
+hyperlipoproteinemia	D006951
+corneal arcus	D001112
+analbuminemia	OMIM:103600
+analbuminemia	OMIM:103600
+analbuminemia	OMIM:103600
+thalassemia	D013789
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+growth hormone (GH) deficiency	OMIM:262400
+dystrophic process	D009136
+DMD	D020388
+eye abnormalities	D005124
+Aniridia	D015783
+semidominant developmental disorders	D002658
+iris hypoplasia	D007499
+brain abnormalities	D001927
+developmental abnormalities of the eye	D005124
+developmental defects	D002658
+hereditary breast and ovarian cancer	D061325
+breast and ovarian cancer	D061325
+breast-ovarian cancer	D061325
+ovarian cancer	D010051
+breast-ovarian cancer	D061325
+tumors	D009369
+tumor	D009369
+prostatic, pancreas, skin, and lung cancer	D011471|D010190|D012878|D008175
+malignant melanoma	D008545
+oligodendroglioma	D009837
+carcinosarcoma	D002296
+ovarian cancer	D010051
+hereditary breast cancer	D001943
+ovarian cancers	D010051
+Wiskott-Aldrich syndrome	D014923
+isolated thrombocytopenia	OMIM:313900
+WAS	D014923
+genetic defect	D030342
+X-linked Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+immunodeficiency disease	D007153
+WAS	D014923
+WAS	D014923
+isolated thrombocytopenia	OMIM:313900
+WAS	D014923
+WAS	D014923
+thrombocytopenia	D013921
+isolated thrombocytopenia	OMIM:313900
+WAS	D014923
+WAS	D014923
+congenital thrombocytopenia	OMIM:313900
+isolated thrombocytopenia	OMIM:313900
+WAS	D014923
+WAS	D014923
+WAS	D014923
+isolated thrombocytopenia	OMIM:313900
+WAS	D014923
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+Wiskott-Aldrich syndrome	D014923
+iodide transport defect	OMIM:274400
+congenital hypothyroidism	D003409
+iodide transport defect	OMIM:274400
+congenital hypothyroidism	D003409
+iodide transport defect	OMIM:274400
+congenital hypothyroidism	D003409
+iodide transport defect	OMIM:274400
+Lesch-Nyhan syndrome	D007926
+Lesch-Nyhan syndrome	D007926
+adrenoleukodystrophy	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+Type II ALD	D000326
+leukoencephalopathy	D056784
+ALD	D000326
+colorectal cancer	D015179
+stage II colorectal cancer	D015179
+colorectal cancer	D015179
+tumor	D009369
+colorectal carcinoma	D015179
+stage II and III colorectal carcinomas	D015179
+tumor	D009369
+tumor	D009369
+stage II and stage III colorectal carcinomas	D015179
+tumors	D009369
+DCC-negative tumors	D009369
+stage III disease	D009369
+stage II or stage III colorectal cancer	D015179
+stage II colorectal carcinomas	D015179
+stage III cancers	D009369
+venous thrombosis	D020246
+deficiencies of protein S	D018455
+Protein S deficiency	D018455
+venous thrombosis	D020246
+thrombophilic conditions	D019851
+protein S deficiency	D018455
+PROS1 gene defect	OMIM:612336
+PROS1 gene defect	OMIM:612336
+PROS1 gene defect	OMIM:612336
+thrombosis	D013927
+thrombophilic defect	D019851
+trauma	D014947
+thrombosis	D013927
+defects in the PROS1 gene	OMIM:612336
+PROS1 gene defects	OMIM:612336
+protein S deficiency	D018455
+thrombosis	D013927
+X-linked Emery-Dreifuss muscular dystrophy	D020389
+X-linked Emery-Dreifuss muscular dystrophy	D020389
+EDMD	D020389
+benign neuromuscular disorder	D009468
+loss of ambulation	D051346
+muscle wasting	D009133
+Emery-Dreifuss muscular dystrophy	D020389
+spinal cerebellar ataxia	D013132
+spinal cerebellar ataxia	D013132
+Machado-Joseph disease	D017827
+phenylketonuria	D010661
+phenylketonuria	D010661
+PKU	D010661
+autosomal recessive disorder	D030342
+deficiency of hepatic phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+PAH-deficient	OMIM:261600
+PAH-deficient	OMIM:261600
+PKU	D010661
+Huntington disease	D006816
+Tourette syndrome	D005879
+Tourette syndrome	D005879
+TS	D005879
+Huntington disease	D006816
+HD	D006816
+TS	D005879
+HD	D006816
+Lowe syndrome	D009800
+Lowe syndrome	D009800
+oculocerebrorenal syndrome	D009800
+Lowe syndrome	D009800
+Van der Woude syndrome	C536528
+Van der Woude syndrome	C536528
+VWS	C536528
+autosomal dominant disorder	D030342
+cleft lip	D002971
+cleft palate	D002972
+lip pits	C536528
+cleft lip/palate	D002971|D002972
+lip pits	C536528
+developmental delays	D006130
+VWS	C536528
+VWS	C536528
+VWS	C536528
+popliteal pterygia syndrome	OMIM:119500
+syndromic forms of cleft lip and palate	D002971|D002972
+nonsyndromic cleft lip and palate	OMIM:119530
+Mucopolysaccharidosis type IVA	OMIM:253000
+Mucopolysaccharidosis IVA	OMIM:253000
+MPS IVA	OMIM:253000
+autosomal recessive disorder	D030342
+deficiency in N-acetylgalactosamine-6-sulfatase	D009085
+Duchenne and Becker muscular dystrophy	D020388|C537666
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+Becker muscular dystrophy	C537666
+BMD	C537666
+DMD	D020388
+DMD	D020388
+BMD	C537666
+DMD	D020388
+BMD	C537666
+breast/ovarian cancer	D061325
+breast cancer	D001943
+breast tumour	D001943
+tumours	D009369
+tumour	D009369
+tumour	D009369
+neonatal alloimmune thrombocytopenia	D054098
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+deficiency of the third component of complement	OMIM:613779
+C3 deficiency	OMIM:613779
+C3 deficiency	OMIM:613779
+C3 deficiency	OMIM:613779
+C3 deficiency	OMIM:613779
+C3 deficiency	OMIM:613779
+C3 deficiency	OMIM:613779
+McLeod syndrome	OMIM:300842
+McLeod syndrome	OMIM:300842
+muscular atrophy	D009133
+choreic movement	D002819
+acanthocytosis	D000012
+McLeod	OMIM:300842
+familial hypertrophic cardiomyopathy	D024741
+familial hypertrophic cardiomyopathy	D024741
+FHC	D024741
+FHC	D024741
+idiopathic dilated cardiomyopathy	C536277
+IDC	C536277
+Ewing family of tumors	D012512
+malignant melanoma of soft parts	D008545
+desmoplastic small round cell tumors	D058405
+solid tumors	D009369
+Ewing sarcoma	D012512
+neuroectodermal tumors	D017599
+malignant melanoma of soft parts	D008545
+desmoplastic small round cell tumors	D058405
+tumors	D009369
+Ewings sarcoma	D012512
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+autosomal recessive genetic disorder	D030342
+Tay-Sachs	D013661
+TSD	D013661
+TSD	D013661
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+myotonic dystrophy	D009223
+Inherited colorectal polyposis	D011125
+cancer	D009369
+APC	D011125
+colorectal tumor	D015179
+familial adenomatous polyposis syndrome	D011125
+APC	D011125
+APC	D011125
+adenomatous polyps	D018256
+colorectal cancer,	D015179
+colorectal neoplasia	D015179
+adenomas	D000236
+colorectal cancers	D015179
+adenoma	D000236
+colorectal cancer	D015179
+colorectal cancer	D015179
+hematological malignancy	D019337
+neurofibromatosis type 1	D009456
+hereditary nonpolyposis colorectal cancer	D003123
+hereditary nonpolyposis colorectal cancer	D003123
+hematological malignancy	D019337
+neurofibromatosis type 1	D009456
+NF1	D009456
+leukemia	D007938
+lymphoma	D008223
+neurofibromatosis type 1	D009456
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+Paroxysmal nocturnal haemoglobinuria	D006457
+deficiency of the ninth component of complement	OMIM:613825
+haemolytic attack	D006461
+paroxysmal nocturnal haemoglobinuria	D006457
+PNH	D006457
+inherited deficiency in the ninth complement component	OMIM:613825
+haemolysis	D006461
+haemolysis	D006461
+haemoglobinuria	D006456
+jaundice	D007565
+haemolytic attacks	D006461
+PNH	D006457
+haemolysis	D006461
+PNH	D006457
+C9 deficiency	OMIM:613825
+hereditary breast and ovarian cancer	D061325
+breast cancer	D001943
+tumour	D009369
+breast cancer	D001943
+tumor	D009369
+breast and ovarian cancers	D001943|D010051
+cancer	D009369
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+tumor	D009369
+breast and ovarian cancers	D061325
+chromosomal abnormalities	D002869
+aneuploidy	D000782
+cognitive impairment	D003072
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+cognitive impairment	D003072
+DMD	D020388
+DMD	D020388
+cognitive impairment	D003072
+cerebral dysfunction	D001927
+DMD	D020388
+cognitive impairment	D003072
+DMD	D020388
+phenylketonuria	D010661
+phenylketonuria	D010661
+mucopolysaccharidosis IVA	OMIM:253000
+Mucopolysaccharidosis IVA	OMIM:253000
+MPS IVA	OMIM:253000
+lysosomal storage disorder	D016464
+deficiency of N -acetylgalactosamine-6-sulfate sulfatase	OMIM:253000
+MPS IVA	OMIM:253000
+MPS IVA	OMIM:253000
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+Wiskott-Aldrich defect	D014923
+WAS	D014923
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+X-linked thrombocytopenia	OMIM:313900
+WAS	D014923
+Familial deficiency of the seventh component of complement	OMIM:610102
+meningococcal infections	D008589
+recurrent meningitis	D008581+D012008
+absence of the seventh component of complement	OMIM:610102
+C7 deficiency	OMIM:610102
+hyperparathyroidism and jaw tumor syndrome	OMIM:145001
+renal hamartomas	D007674+D006222
+cystic kidney disease	D052177
+renal hamartomas	D007674+D006222
+Hereditary hyperparathyroidism-jaw tumor syndrome	OMIM:145001
+HPT-JT	OMIM:145001
+autosomal dominant disease	D030342
+HPT-JT syndrome	OMIM:145001
+adult renal hamartomas	C536399
+cystic kidney disease	D052177
+HPT-JT syndrome	OMIM:145001
+renal lesions	D007680
+HPT	D006961
+JT	D007573
+JT	D007573
+polycystic kidney disease	D007690
+primary HPT	D049950
+multiple endocrine neoplasia (MEN) types 1 and 2	D009377
+MEN1	OMIM:131100
+MEN2	D018813
+renal hamartomas	D007674+D006222
+jaw tumor	D007573
+parathyroid tumor	D010282
+renal hamartomas	D007674+D006222
+tumor	D009369
+inherited metabolic disorder	D008659
+galactosemia	D005693
+galactosemia	D005693
+bipolar affective disorder	D001714
+Bipolar affective disorder	D001714
+BPAD	D001714
+manic-depressive illness	D001714
+mania	D001714
+hypomania	D019964
+depression	D003866
+BPAD	D001714
+BPAD	D001714
+BPAD	D001714
+genetic disorders	D030342
+psychiatric disorder	D001523
+BPAD	D001714
+BPAD	D001714
+affective disorders	D019964
+Non-syndromic hearing loss	C537845
+enlarged vestibular aqueduct	OMIM:600791
+PDS	C536648
+Enlarged vestibular aqueduct	OMIM:600791
+EVA	OMIM:600791
+inner ear abnormality	D007759
+non-syndromic sensorineural hearing loss	C537845
+EVA	OMIM:600791
+Pendred syndrome	C536648
+PDS	C536648
+Pendred syndrome	C536648
+non-syndromic sensorineural hearing loss	C537845
+EVA	OMIM:600791
+syndromic and non-syndromic hearing loss	D034381|C537845
+retinoblastomas	D012175
+mesenchymal tumors	C535700
+Retinoblastoma	D012175
+childhood tumor	D009369
+retinoblastoma	D012175
+mesenchymal tumors	C535700
+retinoblastoma	D012175
+retinoblastoma	D012175
+tumors	D009369
+autoimmune chronic active hepatitis	D006521
+autoimmune chronic active hepatitis	D006521
+CAH	D006521
+CAH	D006521
+C4 deficiency	OMIM:614380+OMIM:614379
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+breast and ovarian cancer	D061325
+breast cancer	D001943
+ovarian cancer	D010051
+cancer	D009369
+breast and ovarian cancer	D061325
+Hereditary deficiency of the fifth component of complement	OMIM:609536
+hereditary deficiency of the fifth component of complement	OMIM:609536
+systemic lupus erythematosus	D008180
+C5 deficiency	OMIM:609536
+C5-deficient	OMIM:609536
+C5D	OMIM:609536
+C5D	OMIM:609536
+C5D	OMIM:609536
+glomerulonephritis	D005921
+vasculitis	D014657
+arthritis	D001168
+bacterial infections	D001424
+C5D	OMIM:609536
+pyogenic infection	D007239
+ovarian cancer	D010051
+ovarian cancers	D010051
+ovarian tumor	D010051
+serous cystadenocarcinoma	D018284
+ovarian tumors	D010051
+tumor	D009369
+ovarian tumor	D010051
+hereditary nonpolyposis colorectal cancer	D003123
+ovarian tumor	D010051
+tumor	D009369
+ovarian cancer	D010051
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+A-T	D001260
+autosomal recessive syndrome	D030342
+malignancy	D009369
+A-T	D001260
+cancer	D009369
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+familial and sporadic cancers	D009369
+tumor	D009369
+breast and ovarian cancer	D001943|D010051
+cancer	D009369
+breast and ovarian cancer	D001943|D010051
+breast and 79 ovarian cancer	D001943|D010051
+breast, ovarian, or other cancers	D001943|D010051|D009369
+cancer	D009369
+cancer	D009369
+breast cancer	D001943
+cancer	D009369
+breast and ovarian cancers	D001943|D010051
+hepatoma	D006528
+Phenylketonuria	D010661
+PKU	D010661
+deficiency of the hepatic enzyme phenylalanine hydroxylase	OMIM:261600
+hepatoma	D006528
+hepatoma	D006528
+PKU	D010661
+X-linked amelogenesis imperfecta	C538243
+amelogenesis imperfecta	D000567
+inherited disorders	D030342
+X-linked amelogenesis imperfecta	C538243
+AIH1	C538243
+AIH1	C538243
+Pendred syndrome	C536648
+Pendred syndrome	C536648
+syndromic deafness	D003638
+sensorineural hearing loss	D006319
+goitre	D006042
+Pendred syndrome	C536648
+PDS	C536648
+diastrophic dysplasia	C536170
+adenoma	D000236
+Pendred syndrome	C536648
+C2 deficiency	OMIM:217000
+C2-deficient	OMIM:217000
+C2 deficiency	OMIM:217000
+C2-deficient	OMIM:217000
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+C6 deficiency	OMIM:612446
+Deficiency of the sixth component of human complement	OMIM:612446
+Meningococcal disease	D008589
+C6 deficiency	OMIM:612446
+C6-deficient	OMIM:612446
+Histidinemia	C538320
+histidinemia	C538320
+Hypoxanthine-guanine phosphoribosyltransferase deficiency	OMIM:300323
+Lesch-Nyhan syndrome	D007926
+X chromosome-linked human disease	D040181
+absence of hypoxanthine-guanine phosphoribosyltransferase (HPRT) activity	D007926
+gouty arthritis	D015210
+Lesch-Nyhan syndrome	D007926
+partial deficiencies of HPRT activity	OMIM:300323
+Sjogren-Larsson syndrome	D016111
+inherited disorder	D030342
+Sjogren-Larsson syndrome	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+deficiency of fatty alcohol  NAD + oxidoreductase	D016111
+SLS	D016111
+inherited disorder	D030342
+abnormality in fatty alcohol metabolism	D005235
+impaired glucose tolerance	D018149
+Impaired glucose tolerance	D018149
+IGT	D018149
+hypertriglyceridemia	D015228
+diabetes mellitus	D003920
+cardiovascular disease	D002318
+IGT	D018149
+hyperglycerolemia	C538138
+Aspartylglucosaminuria	D054880
+AGU	D054880
+lysosomal storage disorder	D016464
+deficiency of the enzyme aspartylglucosaminidase	D054880
+G6PD deficient	D005955
+favism	D005236
+enzyme deficiency	D008661
+congenital afibrinogenemia	C531603
+Congenital afibrinogenemia	C531603
+autosomal, recessive disorder	D030342
+afibrinogenemia	D000347
+congenital afibrinogenemia	C531603
+Lesch-Nyhan syndrome	D007926
+hyperuricemia	D033461
+central nervous system symptoms	D002493
+Lesch-Nyhan syndrome	D007926
+chroeoathetosis	C537181
+spasticity	D009128
+dysarthric speech	D004401
+hyperuricemia	D033461
+Lesch-Nyhan syndrome	D007926
+Lesch-Nyhan	D007926
+Lesch-Nyhan	D007926
+Lesch-Nyhan syndrome	D007926
+Canavan disease	D017825
+Canavan disease	D017825
+autosomal recessive leukodystrophy	D007966
+deficiency of aspartoacylase	D017825
+Canavan	D017825
+Canavan	D017825
+Canavan disease	D017825
+metachromatic leukodystrophy	D007966
+Deficiency of arylsulfatase A	D007966
+metachromatic leukodystrophy	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+Piebaldism	D016116
+deafness	D003638
+piebaldism	D016116
+sensorineural deafness	D006319
+auditory anomalies	D001304
+deafness	D003638
+piebaldism	D016116
+sensorineural deafness	D006319
+piebaldism	D016116
+piebaldism	D016116
+Waardenburg syndrome	D014849
+familial polyposis	D011125
+familial adenomatous polyposis coli	D011125
+APC	D011125
+von Hippel-Lindau	D006623
+VHL	D006623
+Von Hippel-Lindau (VHL) disease	D006623
+hereditary tumor syndrome	D009386
+bilateral and multi-centric hemangioblastoma	D018325
+pheochromocytoma	D010673
+renal cell carcinoma	D002292
+cysts in the kidney, pancreas, and epididymis	D052177|D010181|D013088
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL disease	D006623
+pheochromocytoma	D010673
+VHL disease	D006623
+VHL	D006623
+central nervous system hemangioblastoma	D018325
+fragile X syndrome	D005600
+Fragile X syndrome	D005600
+inherited mental retardation	D038901
+fragile X mental retardation	OMIM:300624
+fragile X syndrome	D005600
+mental retardation	D008607
+Glucose-6-phosphate dehydrogenase deficiency	D005955
+G6PD deficient	D005955
+G6PD deficiency	D005955
+phenylketonuria	D010661
+Phenylketonuria	D010661
+PKU	D010661
+autosomal recessive disorder	D030342
+deficiency of the hepatic enzyme phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+sporadic aniridia	D015783
+bilateral sporadic aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+aniridia	D015783
+familial aniridia	D015783
+chromosome abnormalities	D002869
+Total deficiency of plasma cholesteryl ester transfer protein	OMIM:143470
+cholesteryl ester transfer protein (CETP) deficiency	OMIM:143470
+CETP-deficient	OMIM:143470
+genetic defects	D030342
+CETP deficiency	OMIM:143470
+type I von Willebrand disease	D056725
+von Willebrand	D014842
+Type I von Willebrand disease	D056725
+vWD	D014842
+von Willebrand	D014842
+type I vWD	D056725
+Norrie disease	C537849
+Norrie disease	C537849
+NDP	C537849
+choroideremia	D015794
+choroideremia	D015794
+CHM	D015794
+CHM	D015794
+FRDA	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+inherited ataxia	D013132
+FRDA	D005621
+hyperalphalipoproteinemic	OMIM:143470
+hyperalphalipoproteinemia	OMIM:143470
+CETP deficiency	OMIM:143470
+hyperalphalipoproteinemic	OMIM:143470
+hyperalphalipoproteinemic	OMIM:143470
+hyperalphalipoproteinemia	OMIM:143470
+corneal opacity	D003318
+coronary heart disease	D003327
+CETP deficiency	OMIM:143470
+atherosclerotic symptoms	D050197
+breast cancer	D001943
+Breast Cancer	D001943
+inherited breast cancer	D001943
+breast cancer	D001943
+Breast Cancer	D001943
+ovarian or other cancers	D010051|D009369
+breast-ovarian cancer	D061325
+male and female breast cancer	D018567|D001943
+breast cancer	D001943
+breast cancer	D001943
+ovarian cancer	D010051
+breast cancer	D001943
+Borjeson-Forssman-Lehmann syndrome	C536575
+BFLS	C536575
+Borjeson-Forssman-Lehmann syndrome	C536575
+BFLS	C536575
+X-linked mental retardation	D038901
+BFLS	C536575
+BFLS syndrome	C536575
+X-linked mental retardation	D038901
+phenylketonuria	D010661
+hyperphenylalaninemic	D010661
+phenylketonuria	D010661
+Colorectal Cancer	D015179
+Choroideremia	D015794
+X-linked disorder	D040181
+choroideremia	D015794
+TCD	C531652
+Progressive Tapeto-Choroidal Dystrophy	C531652
+TCD	C531652
+TCD	C531652
+TCD	C531652
+TCD	C531652
+TCD	C531652
+myelinopathies	D011115
+hypomyelination of the PNS	D010523
+inherited peripheral neuropathies	C548028
+Charcot-Marie-Tooth type 1	D002607
+Dejerine-Sottas syndrome	C538392
+congenital hypomyelinating neuropathy	OMIM:605253
+von Willebrand disease	D014842
+von Willebrand	D014842
+von Willebrand disease	D014842
+vWD	D014842
+inherited bleeding disorder	D025861
+von Willebrand	D014842
+vWD	D014842
+type IIA vWD	D056728
+type IIA vWD	D056728
+Prader-Willi and angelman syndromes	D011218|D017204
+Prader-Willi syndrome	D011218
+PWS	D011218
+Angelman syndrome	D017204
+AS	D017204
+PWS	D011218
+AS	D017204
+PWS	D011218
+AS	D017204
+PWS	D011218
+AS	D017204
+AS	D017204
+PWS	D011218
+lipomas	D008067
+lipomas	D008067
+lipomas	D008067
+adipose tissue inflammation	D007249
+lipomas	D008067
+lipomas	D008067
+benign tumors	D009369
+HNPCC	D003123
+colorectal cancer	D015179
+hereditary non-polyposis cancer syndrome	D003123
+HNPCC	D003123
+colorectal cancer	D015179
+HNPCC	D003123
+colorectal	D015179
+colorectal cancer	D015179
+HNPCC	D003123
+colorectal, endometrial, and ovarian cancers	D010051|D016889|D015179
+cancers	D009369
+colorectal cancer	D015179
+colorectal cancer	D015179
+endometrial cancer	D016889
+premenopausal ovarian cancer	D010051
+colorectal cancer	D015179
+colorectal cancer	D015179
+Norrie disease	C537849
+Norrie disease	C537849
+ND	C537849
+ND	C537849
+mental retardation	D008607
+hearing impairment	D034381
+ND	C537849
+ND	C537849
+ND	C537849
+ND	C537849
+obesity	D009765
+adrenal insufficiency	D000309
+ACTH deficiency	OMIM:201400|C535668
+obesity	D009765
+obesity	D009765
+obesity	D009765
+ACTH deficiency	OMIM:201400|C535668
+genetic defect	D030342
+monogenic endocrine disorder	D004700
+obesity	D009765
+adrenal insufficiency	D000309
+breast and ovarian cancer	D061325
+breast/ovarian cancer	D061325
+breast and ovarian cancer	D061325
+ovarian cancer	D010051
+congenital hemolytic anemia	D000745
+chronic nonspherocytic hemolytic anemia	D000746
+hemolytic anemia	D000743
+G6PD deficiency	D005955
+hemolytic crisis	D006461
+upper respiratory infection	D012141
+hemolysis	D006461
+chronic hemolytic anemia	D000745
+Ovarian cancer	D010051
+breast cancer	D001943
+ovarian cancer	D010051
+cancer	D009369
+cancers	D009369
+breast cancer	D001943
+hereditary breast and ovarian cancer	D061325
+ovarian cancer	D010051
+hereditary ovarian cancer	D061325
+breast cancer	D001943
+inherited cancer syndrome	D009386
+Craniofrontonasal dysplasia	C536456
+craniofrontonasal dysplasia	C536456
+CFND	C536456
+frontonasal dysplasia	C538065
+coronal craniosynostosis	C537369
+Extracranial abnormalities	D009139
+brittle nails with prominent longitudinal grooves	D009260
+syndactyly of fingers and toes	D013576
+Hypotonia	D009123
+laxity of joints	C535884
+developmental delay	D002658
+X-linked disorders	D040181
+CFND	C536456
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+Wiskott-Aldrich syndrome	D014923
+X-linked congenital thrombocytopenia	OMIM:313900
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+X-linked recessive disorder	D040181
+thrombocytopenia	D013921
+eczema	D004485
+immunodeficiency	D007153
+WAS	D014923
+congenital X-linked thrombocytopenia	OMIM:313900
+XLT	OMIM:313900
+eczema	D004485
+immune deficiency	D007153
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+WAS	D014923
+XLT	OMIM:313900
+WAS	D014923
+XLT	OMIM:313900
+WAS	D014923
+phenylketonuria	D010661
+Phenylketonuria	D010661
+PKU	D010661
+autosomal recessive disease	D030342
+deficiency of a hepatic enzyme, phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+PKU	D010661
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+autosomal recessive neurodegenerative disease	D020271
+inherited ataxias	D013132
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+primary dystonias	D020821
+Primary dystonias	D020821
+movement disorders	D009069
+dystonia	D004421
+idiopathic torsion dystonia	D004422
+focal dystonia	D020821
+idiopathic torsion dystonia	D004422
+dopa-responsive dystonia	C538007
+paroxysmal dystonic choreoathetosis	C537181
+X-linked dystonia parkinsonism syndrome	OMIM:314250
+X-linked sensorineural deafness	OMIM:304500
+dystonia	D004421
+mental retardation	D008607
+idiopathic torsion dystonia	D004422
+dopa-responsive dystonia	C538007
+sensorineural deafness	D006319
+dystonia	D004421
+mental retardation	D008607
+primary dystonias	D020821
+dystonias 1-12	D020821
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+autosomal recessive disorder	D030342
+FRDA	D005621
+scoliosis	D012600
+foot deformity	D005530
+cardiomyopathy	D009202
+diabetes mellitus	D003920
+loss of proprioception	D020886
+bladder symptoms	D001745
+bladder symptoms	D001745
+foot deformity	D005530
+diabetes	D003920
+scoliosis	D012600
+bladder symptoms	D001745
+impaired proprioception	D020886
+meningococcal meningitis	D008585
+absence of the sixth component of complement	OMIM:612446
+meningococcal meningitis	D008585
+absence of the sixth component of complement	OMIM:612446
+neisserial infections	D016870
+C6 deficiency	OMIM:612446
+C6-deficient	OMIM:612446
+neisserial infections	D016870
+cerebrotendinous xanthomatosis	D019294
+cerebrotendinous xanthomatosis	D019294
+CTX	D019294
+abnormality of CYP27	OMIM:213700
+advanced prostate cancers	D011471
+metastatic prostate cancer	D011471
+metastatic prostate cancer	D011471
+advanced prostate cancer	D011471
+advanced prostate cancer	D011471
+genetic disorder	D030342
+ataxia-telangiectasia	D001260
+A-T	D001260
+cerebellar dysfunction	D002526
+cancer	D009369
+A-T	D001260
+cancer	D009369
+A-T	D001260
+Nijmegen breakage syndrome	D049932
+NBS	D049932
+NBS	D049932
+A-T	D001260
+NBS	D049932
+A-T	D001260
+NBS	D049932
+A-T	D001260
+NBS	D049932
+myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+DM	D009223
+muscular dystrophy	D009136
+muscle weakness	D018908
+sustained muscle contraction	D009120
+DM	D009223
+DM	D009223
+EA-2	C535506
+FHM	D020325
+episodic ataxia type 2	C535506
+EA-2	C535506
+familial hemiplegic migraine	D020325
+FHM	D020325
+spinocerebellar ataxia 6	OMIM:183086
+SCA6	OMIM:183086
+EA-2	C535506
+FHM	D020325
+EA-2	C535506
+migraine	D008881
+FHM	D020325
+familial adenomatous polyposis	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+familial APC	D011125
+FAP	D011125
+APC	D011125
+colorectal adenomas	D003123
+carcinomas	D009369
+APC	D011125
+APC	D011125
+APC	D011125
+APC	D011125
+APC	D011125
+APC	D011125
+polyposis	D044483
+APC	D011125
+APC	D011125
+APC	D011125
+attenuated polyposis	C538265
+APC	D011125
+FAP	D011125
+colorectal tumor	D015179
+piebaldism	D016116
+Piebaldism	D016116
+autosomal dominant genetic disorder	D030342
+piebaldism	D016116
+piebald	D016116
+Piebaldism	D016116
+late-infantile metachromatic leukodystrophy	D007966
+Metachromatic leukodystrophy	D007966
+MLD	D007966
+autosomal recessive lysosomal storage disorder	D016464
+deficiency of arylsulfatase A	D007966
+late-infantile metachromatic leukodystrophy	D007966
+MLD	D007966
+X-linked adrenoleukodystrophy	D000326
+peroxisomal disorder	D018901
+X-linked adrenoleukodystrophy	D000326
+X-ALD	D000326
+X-ALD	D000326
+ALD	D000326
+adrenomyeloneuropathy	D000326
+AMN	D000326
+Addison disease only	D000224
+ADO	D000224
+ALD	D000326
+X-ALD	D000326
+ALD	D000326
+AMN	D000326
+ADO	D000224
+ALD	D000326
+AMN	D000326
+X-ALD	D000326
+X-ALD	D000326
+Atelosteogenesis type II	C535395
+diastrophic dysplasia	C536170
+chondrodysplasias	D010009
+Atelosteogenesis type II	C535395
+AO II	C535395
+chondrodysplasia	D010009
+chondrodysplasia	D010009
+diastrophic dysplasia	C536170
+DTD	C536170
+DTD	C536170
+diastrophic dysplasia	C536170
+AOII	C535395
+chondrodysplasia	D010009
+chondrodysplasias	D010009
+Emerin, deficiency	D020389
+Emery-Dreifuss muscular dystrophy	D020389
+X-linked recessive Emery-Dreifuss muscular dystrophy	D020389
+EDMD	D020389
+inherited muscle disorder	D009135+D030342
+wasting of humero-peroneal muscles	D019282
+contractures of the elbows, Achilles tendons and postcervical muscles	D003286
+cardiac conduction block	D006327
+sudden death	D003645
+EDMD	D020389
+Zellweger syndrome	D015211
+Zellweger spectrum of disease	D015211
+Zellweger syndrome	D015211
+neonatal adrenoleukodystrophy	OMIM:202370
+infantile Refsum disease	D052919
+Zellweger syndrome	D015211
+Zellweger syndrome	D015211
+Zellweger syndrome	D015211
+Zellweger syndrome	D015211
+Zellweger syndrome	D015211
+ankylosing spondylitis	D013167
+Ankylosing spondylitis	D013167
+AS	D013167
+rheumatic disorder	D012216
+AS	D013167
+AS	D013167
+AS	D013167
+AS	D013167
+AS	D013167
+AS	D013167
+AS	D013167
+AS	D013167
+factor X deficiency	D005171
+Factor X deficiency	D005171
+haemorrhagic condition	D006474
+factor X deficiency	D005171
+retinal degeneration	D012162
+photoreceptor dystrophies	D058499
+autosomal dominant retinitis pigmentosa	D012174
+macular dystrophy	D008268
+retinal degeneration	D012162
+Li-Fraumeni syndrome	D016864
+Li-Fraumeni syndrome	D016864
+tumour	D009369
+sporadic tumours	D009369
+tumours	D009369
+leiomyosarcoma	D007890
+tumour	D009369
+phenylketonuria	D010661
+phenylketonuria	D010661
+PKU	D010661
+PKU	D010661
+Alveolar rhabdomyosarcoma	D018232
+pediatric cancer of striated muscle	D019042
+alveolar rhabdomyosarcoma	D018232
+retinoblastoma	D012175
+retinoblastoma	D012175
+retinoblastoma	D012175
+ataxia-telangiectasia-like disorder	OMIM:604391
+ataxia-telangiectasia-like disorder	OMIM:604391
+ATLD	OMIM:604391
+A-T	D001260
+NBS	D049932
+hypersensitivity to ionizing radiation	D004194
+A-T	D001260
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+Becker muscular dystrophy	C537666
+Becker muscular dystrophy	C537666
+BMD	C537666
+BMD	C537666
+Becker and Duchenne dystrophies	D020388|C537666
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+inherited ataxia	D013132
+FRDA	D005621
+Prader-Willi	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+neurogenetic disorder	D020271
+contiguous gene syndrome	D025063
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+phenylketonuria	D010661
+Phenylketonuria	D010661
+PKU	D010661
+disorder of amino acid metabolism	D000592
+deficiency of the hepatic enzyme phenylalanine hydroxylase	OMIM:261600
+PKU	D010661
+PKU	D010661
+PKU	D010661
+myotonic dystrophy	D009223
+Myotonic dystrophy	D009223
+dystrophia myotonica	D009223
+DM	D009223
+autosomal dominant multisystem disorder	D030342
+DM	D009223
+neuromuscular disease	D009468
+DM	D009223
+DM	D009223
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+autosomal dominant myotonia congenita	OMIM:160800
+Autosomal dominant myotonia congenita	OMIM:160800
+inherited disorder of skeletal muscle	D009135+D030342
+tumor	D009369
+tumor	D009369
+pancreatic cancers	D010190
+Growth retardation	D005317
+gastrulation defect	D004194
+gastrulation defect	D004194
+Norrie disease	C537849
+Norrie disease	C537849
+NDP	C537849
+NDP	C537849
+NDP	C537849
+NDP	C537849
+metachromatic leukodystrophy	D007966
+metachromatic leukodystrophy	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+MLD	D007966
+very-long-chain acyl-CoA dehydrogenase deficiency	C536353
+cardiomyopathy	D009202
+sudden death	D003645
+sudden, unexplained death	D003645
+hepatic encephalopathy	D006501
+liver failure	D017093
+skeletal myopathy	D009135
+cardiomyopathy	D009202
+VLCAD deficiency	C536353
+cardiac arrest	D006323
+cardiomyopathy	D009202
+VLCAD deficiency	C536353
+cardiomyopathy	D009202
+sudden death	D003645
+male breast cancer	D018567
+male breast cancer	D018567
+inherited breast/ovarian cancer	D061325
+breast and/or ovarian cancer	D061325
+breast/ovarian cancer	D061325
+male breast cancer	D018567
+male breast cancer	D018567
+cancer	D009369
+ovarian cancer	D010051
+male breast cancer	D018567
+breast/ovarian cancer	D061325
+golden retriever muscular dystrophy	D009136
+Duchenne muscular dystrophy	D020388
+Golden retriever muscular dystrophy	D009136
+GRMD	D009136
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+GRMD	D009136
+GRMD	D009136
+dystrophin deficiency	OMIM:310200
+melanoma	D008545
+deficiency of hex A	D013661
+Tay-Sachs disease	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+TSD	D013661
+hex A deficiency	D013661
+familial Mediterranean fever	D010505
+familial Mediterranean fever	D010505
+MEF	D010505
+MEF	D010505
+MEF-amyloidosis	D000686|D010505
+MEF	D010505
+amyloidosis	D000686
+MEF	D010505
+MEF	D010505
+MEF	D010505
+MEF-amyloidosis	D000686|D010505
+MEF	D010505
+amyloidosis	D000686
+severe neonatal jaundice	D007567
+G6PD deficiency	D005955
+hyperbilirubinaemia	D006932
+severe neonatal jaundice	D007567
+APC	D011125
+adrenocortical carcinoma	D018268
+familial adenomatous polyposis	D011125
+Endocrine neoplasms	D004701
+familial adenomatous polyposis	D011125
+FAP	D011125
+adrenocorotical carcinoma	D018268
+FAP	D011125
+adenomatous polyposis coli	D011125
+APC	D011125
+carcinoma	D002277
+APC	D011125
+APC	D011125
+adrenocortical tumors	D018268
+desmoid tumor	C535944
+APC	D011125
+benign tumors	D009369
+tumors	D009369
+FAP	D011125
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+C2-deficiency	OMIM:217000
+myasthenia gravis	D009157
+Complement deficiency	D007153
+myasthenia gravis	D009157
+MG	D009157
+MG	D009157
+C2 deficiency	OMIM:217000
+recessive disorders	D030342
+phenylketonuria	D010661
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD Seattle-like phenotype	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+Familial discoid lupus erythematosus	D008179
+C2 deficiency	OMIM:217000
+chronic discoid lupus erythematosus	D008179
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+breast and ovarian cancer	D061325
+breast and ovarian cancer	D061325
+breast and ovarian cancer	D061325
+breast cancer	D001943
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+neurodegenerative disease	D019636
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+von Hippel-Lindau disease tumour	D006623
+von Hippel-Lindau (VHL) disease	D006623
+VHL	D006623
+retinal, cerebellar and spinal haemangioblastomas	D012175|D018325
+renal cell carcinoma	D002292
+phaeochromocytoma	D010673
+VHL	D006623
+sporadic renal cell carcinoma	D002292
+haemangioblastoma	D018325
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+VHL	D006623
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+AT	D001260
+AT	D001260
+AT	D001260
+AT	D001260
+atrophic benign epidermolysis bullosa	D016109
+atrophic benign epidermolysis bullosa	D016109
+junctional epidermolysis bullosa	D016109
+blistering	D001768
+nail dystrophy	C538333
+patchy alopecia	C531609
+dental abnormalities	D014071
+Skin fragility	C536183
+atrophic benign epidermolysis bullosa	D016109
+breast and ovarian cancer	D061325
+breast and/or ovarian cancer	D061325
+tumour	D009369
+breast carcinomas	D001943
+cancer	D009369
+cancer	D009369
+breast cancer	D001943
+tumours	D009369
+estrogen receptor-positive breast carcinomas	D001943
+tumors	D009369
+neuroblastoma	D009447
+tumor	D009369
+tumors	D009369
+tumors	D009369
+leukemia	D007938
+leukemia	D007938
+acute leukemia	D007938
+leukemia	D007938
+pyruvate carboxylase deficiency	D015324
+pyruvate carboxylase deficiency	D015324
+PC Portland deficiency	D015324
+Complex glycerol kinase deficiency	C538138
+complex glycerol kinase deficiency	C538138
+CGKD	C538138
+muscular dystrophy	D009136
+muscle weakness	D018908
+mental retardation	D008607
+congenital adrenal hypoplasia	D000312
+glycerol kinase deficiency	C538138
+CGKD	C538138
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+gonadotropin deficiency	C535764
+GTD	C535764
+DMD	D020388
+congenital adrenal hypoplasia	D000312
+AHC	D000312
+GTD	C535764
+Duchenne muscular dystrophy	D020388
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+myotonic dystrophy	D009223
+Duchenne muscular dystrophy	D020388
+dystrophin deficiency	OMIM:310200
+Myotonic dystrophy	D009223
+Duchenne dystrophy	D020388
+DMD	D020388
+hemophilia A	D006467
+von Willebrand	D014842
+genetic bleeding disorders	D025861
+hemophilia A	D006467
+von Willebrand disease	D014842
+von Willebrand	D014842
+hemophilia A	D006467
+hemophilia	D006467|D002836
+hemophilia	D006467|D002836
+hemophilia	D006467|D002836
+coronary heart disease	D003327
+coronary heart disease	D003327
+CHD	D003327
+CHD	D003327
+CHD	D003327
+CHD	D003327
+CHD	D003327
+CHD	D003327
+CETP deficiency	OMIM:143470
+CHD	D003327
+CHD	D003327
+X-linked adrenoleukodystrophy	D000326
+X-linked Adrenoleukodystrophy	D000326
+X-ALD	D000326
+peroxisomal disease	D018901
+X-ALD	D000326
+X-ALD	D000326
+X-ALD	D000326
+breast and ovarian cancer	D061325
+breast and/or ovarian cancer	D061325
+tumour	D009369
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+GM2 gangliosidosis, type 1	D013661
+autosomal recessive disorder	D030342
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Tay-Sachs disease	D013661
+Adrenoleukodystrophy	D000326
+X-linked adrenoleukodystrophy	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+ALD	D000326
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+myotonic dystrophy	D009223
+retinoblastoma	D012175
+retinoblastoma tumours	D012175
+retinoblastoma	D012175
+tumour	D009369
+retinoblastoma	D012175
+retinoblastoma tumours	D012175
+tumours	D009369
+unilateral tumours	D009369
+retinoblastoma	D012175
+osteosarcoma	D012516
+tumours	D009369
+ataxia-telangiectasia	D001260
+A-T	D001260
+ataxia-telangiectasia	D001260
+A-T	D001260
+autosomal recessive syndrome	D030342
+cancer	D009369
+ischemic heart disease	D017202
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+hereditary coproporphyria	D046349
+Hereditary coproporphyria	D046349
+HCP	D046349
+autosomal dominant disease	D030342
+deficiency of coproporphyrinogen oxidase	D046349
+HCP	D046349
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+congenital disease	D030342
+infertility	D007246
+mentally retarded	D008607
+DM	D009223
+DM	D009223
+Frasier syndrome	D052159
+Frasier syndrome	D052159
+FS	D052159
+Denys-Drash syndrome	D030321
+DDS	D030321
+WT1 gene abnormality	D009396
+FS	D052159
+DDS	D030321
+Friedreich ataxia	D005621
+Friedreich ataxia	D005621
+FRDA	D005621
+inherited ataxias	D013132
+autosomal recessive degenerative disorder	D019636
+progressive gait and limb ataxia	D020234|D001259
+absence of deep tendon reflexes	D012021
+extensor plantar responses	D001405
+loss of position and vibration sense	D053421
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+FRDA	D005621
+mitochondrial disorder	D028361
+Chronic nonspherocytic hemolytic anemia	D000746
+CNSHA	D000746
+glucose 6 phosphate dehydrogenase (G6PD) deficiency	D005955
+familial amyloidotic polyneuropathy	D028227
+FAP	D028227
+erythrocytic G6PD deficiency	D005955
+chronic nonspherocytic hemolytic anemia	D000746
+CNSHA	D000746
+familial amyloidotic polyneuropathy	D028227
+FAP	D028227
+Chronic hemolysis	D006461
+ataxia-telangiectasia	D001260
+genetic disorder	D030342
+ataxia-telangiectasia	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+choroideremia	D015794
+choroideremia	D015794
+choroideremia	D015794
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+Prader Willi	D011218
+BRCA-linked and sporadic ovarian cancer	OMIM:604370|OMIM:612555|OMIM:613399|D010051
+hereditary ovarian cancers	D061325
+ovarian cancer	D010051
+hereditary ovarian cancers	D061325
+sporadic (nonhereditary) ovarian cancers	D010051
+ovarian cancers	D010051
+cancer	D009369
+Cancer	D009369
+ovarian cancer	D010051
+Hereditary cancers	D009369
+hereditary cancers	D009369
+stage III cancers	D009369
+BRCA-associated hereditary ovarian cancers	OMIM:604370|OMIM:612555|OMIM:613399
+sporadic cancers	D009369
+advanced-stage hereditary cancer	D009386
+nonhereditary cancer	D009369
+BRCA1-linked than for BRCA2-linked cancers	OMIM:604370|OMIM:612555
+Wilms' tumour	D009396
+Denys-Drash syndrome	D030321
+developmental disorder	D002658
+renal failure	D051437
+intersex disorders	D012734
+Wilms tumour	D009396
+Wilms tumour	D009396
+Becker and Duchenne muscular dystrophy	D020388|C537666
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+X-linked recessive genetic disorder	D040181
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+Becker muscular dystrophy	C537666
+BMD	C537666
+DMD	D020388
+DMD	D020388
+DMD	D020388
+hereditary retinoblastoma	D012175
+hereditary retinoblastoma	D012175
+tumor	D009369
+nonocular tumors	D009369
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+Duchenne muscular dystrophy	D020388
+X-linked diseases	D040181
+Analbuminemia	OMIM:103600
+analbuminemia	OMIM:103600
+ankle edema	D016512
+ease of fatigue	D005221
+arterial hypotension	D007022
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+WAS	D014923
+type II Gaucher disease	D005776
+Gaucher disease	D005776
+GD	D005776
+deficiency of beta-glucocerebrosidase	D005776
+type I GD	D005776
+type II GD	D005776
+type III GD	D005776
+type GD II	D005776
+GD type II	D005776
+stillborn	D005313
+type II GD	D005776
+deficiency of the second component of complement	OMIM:217000
+deficiency of the second component of complement	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+C2 deficiency	OMIM:217000
+hereditary progressive dystonia	D020821
+Hereditary progressive dystonia	D020821
+HPD	D020821
+dopa-responsive dystonia	C538007
+DRD	C538007
+genetic defect	D030342
+HPD	D020821
+DRD	C538007
+Wiskott-Aldrich syndrome	D014923
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+X-linked recessive immunodeficiency	D053632
+thrombocytopenia	D013921
+eczema	D004485
+WAS	D014923
+WAS	D014923
+XLT	OMIM:313900
+glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+G6PD-deficient	D005955
+G6PD deficiency	D005955
+Angelman syndrome	D017204
+Prader-Willi syndrome	D011218
+Angelman syndrome	D017204
+AS	D017204
+Prader-Willi syndrome	D011218
+PWS	D011218
+AS	D017204
+PWS	D011218
+AS	D017204
+PWS	D011218
+Norrie disease	C537849
+X linked Norrie disease	C537849
+ND	C537849
+ND	C537849
+Norrie disease	C537849
+Adult onset globoid cell leukodystrophy	D007965
+Krabbe disease	OMIM:245200
+adult onset globoid cell leukodystrophy	D007965
+Krabbe disease	OMIM:245200
+AO-GLD	D007965
+spastic paraplegia	D010264
+diminished GALC activity	C538554
+diminished GALC activity	C538554
+AO-GLD	D007965
+IF-GLD	D007965
+GLD	D007965
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+chondrodysplasia	D010009
+short trunk and extremities	D006130
+mid-face hypoplasia	D019767
+cleft palate	D002972
+myopia	D009216
+retinal detachment	D012163
+hearing loss	D034381
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+Kniest dysplasia	C537207
+van der Woude syndrome	C536528
+van der Woude syndrome	C536528
+vWS	C536528
+autosomal dominant clefting condition	C536528
+mucous cysts	D009078
+lower-lip pits	C536528
+clefts to the lip and/or palate	D002971|D002972
+vWS	C536528
+vWS	C536528
+cleft lip and/or palate	D002971|D002972
+vWS	C536528
+vWS	C536528
+Hypopigmentation	D017496
+Prader-Willi syndrome	D011218
+Cutaneous and ocular pigmentation	D010859
+Prader-Willi syndrome	D011218
+PWS	D011218
+hypopigmentation	D017496
+PWS	D011218
+hypopigmented	D017496
+hypopigmentation	D017496
+hypopigmentation	D017496
+PWS	D011218
+hypopigmentation	D017496
+hypopigmentation	D017496
+PWS	D011218
+hypopigmentation	D017496
+hypopigmentation	D017496
+Deficiency of the fifth component of complement	OMIM:609536
+deficiency of the fifth component of complement	OMIM:609536
+gonococcal infection	D006069
+C5-deficient	OMIM:609536
+C5 deficiency	OMIM:609536
+C5 deficiency	OMIM:609536
+Deficiency of C5	OMIM:609536
+gonococcal infection	D006069
+inherited breast and ovarian cancer	D061325
+tumour	D009369
+Deficiency of glucose-6-phosphate dehydrogenase	D005955
+malaria	D008288
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+G6PD deficiency	D005955
+Wilms' tumor	D009396
+Denys-Drash syndrome	D030321
+Denys-Drash syndrome	D030321
+urogenital aberrations	D014564
+renal failure	D051437
+pseudohermaphroditism	D012734
+Wilms tumor	D009396
+nephroblastoma	D009396
+Wilms tumor	D009396
+Denys-Drash syndrome	D030321
+Wilms tumors	D009396
+tumor	D009369
+Denys-Drash syndrome	D030321
+retinoblastoma	D012175
+tumor	D009369
+retinoblastoma	D012175
+unilateral tumors	D009369
+tumors	D009369
+beta-glucuronidase deficiency	D016538
+mucopolysaccharidosis VII	D016538
+mucopolysaccharidosis VII	D016538
+autosomal recessive lysosomal storage disorder	D016464
+beta-glucuronidase deficiency	D016538
+MPS VII	D016538
+periodontal disease	D010510
+palmoplantar keratosis	D007645
+Papillon-Lefevre syndrome	D010214
+keratosis palmoplantaris	D007645
+periodontopathia	D010510
+PLS	D010214
+autosomal recessive disorder	D030342
+periodontitis	D010518
+tooth loss	D016388
+Palmoplantar keratosis	D007645
+hyperkeratosis	D017488
+Keratosis	D007642
+PLS	D010214
+periodontitis	D010518
+hyperkeratosis	D017488
+palmoplantar keratosis	D007645
+periodontitis	D010518
+periodontitis	D010518
+PLS	D010214
+Brca1 deficiency	OMIM:604370
+embryonic lethality	D020964
+neuroepithelial abnormalities	D018302
+breast and ovarian cancer	D061325
+breast and ovarian cancer	D061325
+ovarian cancers	D010051
+tumours	D009369
+tumour	D009369
+cancer	D009369
+Brca1-deficient	OMIM:604370
+spina bifida	D016135
+anencephaly	D000757
+Brca1-deficient	OMIM:604370
+X linked recessive thrombocytopenia	OMIM:313900
+thrombocytopenia	D013921
+immunological abnormalities	D007154
+X linked recessive thrombocytopenic disorder	OMIM:313900
+Wiskott-Aldrich syndrome	D014923
+WAS	D014923
+immune deficiencies	D007154
+X linked recessive thrombocytopenia	OMIM:313900
+WAS	D014923
+WAS	D014923
+cerebrotendinous xanthomatosis	D019294
+CTX	D019294
+cerebrotendinous xanthomatosis	D019294
+CTX	D019294
+CTX	D019294
+cataract	D002386
+tendinous xanthomas	D014973
+CTX	D019294
+insulin-dependent diabetes mellitus	OMIM:125852
+insulin-dependent diabetes mellitus	OMIM:125852
+IDDM	D003922
+IDDM	D003922
+IDDM	D003922
+IDDM	D003922
+IDDM	D003922
+IDDM	D003922
+IDDM	D003922
+atherosclerosis	D050197
+CETP deficiency	OMIM:143470
+Huntington disease	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+von Willebrand	D014842
+severe von Willebrand disease	D056729
+Severe von Willebrand disease	D056729
+von Willebrand	D014842
+genetic abnormality	D030342
+genetic abnormalities	D030342
+severe von Willebrand disease	D056729
+hereditary and non hereditary retinoblastoma	D012175
+retinoblastoma	D012175
+hereditary or non hereditary retinoblastoma	D012175
+retinoblastoma	D012175
+Pelizaeus-Merzbacher disease	OMIM:312080
+X-linked neurologic disorder of myelin metabolism	D020279
+inborn errors of myelin metabolism	D020279
+Pelizaeus-Merzbacher disease	OMIM:312080
+neurologic disorders	D009422
+deficit of myelin	D003711
+Pelizaeus-Merzbacher	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+dysmyelinating disorder	D003711
+inborn errors of myelin metabolism	D020279
+Pelizaeus-Merzbacher disease (type II)	OMIM:312080
+Pelizaeus-Merzbacher disease	OMIM:312080
+Machado-Joseph disease	D017827
+Machado-Joseph disease	D017827
+MJD	D017827
+MJD	D017827
+MJD	D017827
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+DMD	D020388
+Complement C7 deficiency	OMIM:610102
+C7 deficiency	OMIM:610102
+C7 defects	OMIM:610102
+Deficiency of the murine fifth complement component (C5)	OMIM:609536
+C5 deficiency	OMIM:609536
+deficient for C5	OMIM:609536
+C5 deficiency	OMIM:609536
+C5 deficiency	OMIM:609536
+C5-deficient	OMIM:609536
+C5-deficient	OMIM:609536
+C5 protein deficiency	OMIM:609536
+meningitis	D008581
+congenital deficiency of the C9 component of complement	OMIM:613825
+C9 deficiency	OMIM:613825
+C9 deficiency	OMIM:613825
+bacterial meningitis	D016920
+purulent meningitis	D008586
+acute meningococcal meningitis	D008585
+impairment of cellular immunity	D007153
+immunoglobulin deficiency	D004406
+complete deficiency of the C9 component	OMIM:613825
+complete C9 deficiency	OMIM:613825
+bacterial meningitis	D016920
+C9 deficiency	OMIM:613825
+recurrent meningitis	D008581+D012008
+complete C9 deficiency	OMIM:613825
+complement defect	D007153
+bacterial, especially neisserial, infections	D016870
+diffuse mesangial sclerosis	C537346
+Denys-Drash syndrome	D030321
+DDS	D030321
+diffuse mesangial sclerosis	C537346
+DMS	C537346
+pseudohermaphroditism	D012734
+Wilms tumor	D009396
+WT	D009396
+DDS	D030321
+isolated DMS	C537346
+IDMS	C537346
+DDS	D030321
+urogenital abnormalities	D014564
+WT	D009396
+IDMS	C537346
+IDMS	C537346
+IDMS	C537346
+DDS	D030321
+IDMS	C537346
+DMS	C537346
+DMS	C537346
+congenital myotonic dystrophy	D009223
+congenital myotonic dystrophy	D009223
+DM	D009223
+mentally retarded	D008607
+muscular weakness	D018908
+DM	D009223
+DM	D009223
+congenital DM	D009223
+congenital DM	D009223
+DM	D009223
+congenital DM	D009223
+congenital DM	D009223
+congenital DM	D009223
+DM	D009223
+anxiety-related traits	OMIM:607834
+anxiety	D001008
+anxiety-related personality traits	OMIM:607834
+VLCAD deficiency	C536353
+VLCAD deficiency	C536353
+adrenoleukodystrophy	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+neurologic deterioration	D019636
+adenovirus infection	D000257
+ALD	D000326
+cataracts	D002386
+deficient in glucose-6-phosphate dehydrogenase	D005955
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+cataractous	D002386
+cataracts	D002386
+G6PD-deficient	D005955
+cortical and total cataracts	D002386
+G6PD deficiency	D005955
+galactosemic	OMIM:230400
+riboflavin deficiency	D012257
+cataracts	D002386
+metabolic abnormalities	D008659
+Von Hippel-Lindau disease	D006623
+renal cell carcinoma	D002292
+Von Hippel-Lindau disease	D006623
+VHL	D006623
+autosomal dominant disorder	D030342
+cancer	D009369
+hemangioblastomas	D018325
+phaeochromocytomas	D010673
+pancreatic malignancies	OMIM:260350
+renal cell carcinomas	D002292
+Renal cell carcinomas	D002292
+bilateral and multifocal tumours	D009369
+tumour	D009369
+VHL	D006623
+VHL	D006623
+VHL	D006623
+tumour	D009369
+tumour	D009369
+inherited and sporadic forms of the cancer	D009369
+Sporadic renal cell carcinomas	D002292
+renal cell carcinoma	D002292
+tumour	D009369
+Lowe oculocerebrorenal syndrome	D009800
+Lowe oculocerebrorenal syndrome	D009800
+OCRL	D009800
+cataract	D002386
+mental retardation	D008607
+defective renal tubular function	D015499
+OCRL	D009800
+OCRL	D009800
+Lowe syndrome	D009800
+OCRL	D009800
+OCRL	D009800
+Motor incoordination	D002524
+immune deficiencies	D007154
+cancer	D009369
+hereditary disease	D030342
+ataxia-telangiectasia	D001260
+A-T	D001260
+thymic lymphoma	D013953
+cerebellar dysfunction	D002526
+cerebellar degeneration	D013132
+neuropathological abnormalities	D009422
+A-T	D001260
+Atm deficiency	OMIM:208900
+A-T	D001260
+Angelman syndrome	D017204
+uniparental disomy	D024182
+complement C7 deficiency	OMIM:610102
+Complement C7 deficiency	OMIM:610102
+C7D	OMIM:610102
+bacterial infections	D001424
+meningitis	D008581
+Neisseria meningitidis	D008589
+C7D	OMIM:610102
+C7D	OMIM:610102
+C7D	OMIM:610102
+deficiencies of complement components	D007153
+G6PD deficient	D005955
+glucose 6-phosphate dehydrogenase (G6PD) deficiency	D005955
+G6PD deficiency	D005955
+enzyme deficiency in G6PD	D005955
+DMD	D020388
+BMD	C537666
+Duchenne or Becker muscular dystrophy	D020388|C537666
+DMD	D020388
+BMD	C537666
+DMD	D020388
+BMD	C537666
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+ataxia-telangiectasia	D001260
+A-T	D001260
+Prader-Willi and Angelman syndromes	D011218|D017204
+Prader-Willi syndrome	D011218
+PWS	D011218
+Angelman syndrome	D017204
+AS	D017204
+neurobehavioral disorders	D019954
+PWS	D011218
+AS	D017204
+Langer-Giedion syndrome	D015826
+trichorhinophalangeal syndrome	OMIM:190350
+Langer-Giedion syndrome	D015826
+Langer-Giedion syndrome	D015826
+trichorhinophalangeal syndrome	OMIM:190350
+TRPS	OMIM:190350
+LGS	D015826
+Langer-Giedion syndrome	D015826
+breast-ovarian cancer syndrome	D061325
+hereditary breast-ovarian cancer	D061325
+breast and breast-ovarian cancer	D001943|D061325
+breast cancer	D001943
+hereditary breast-ovarian cancer syndrome	D061325
+Hereditary C2 deficiency	OMIM:217000
+immunodeficiency	D007153
+C2 deficiency	OMIM:217000
+immunodeficiency	D007153
+hypoimmunoglobulinemia	D007153
+chromosomal abnormalities	D002869
+C2 deficiency	OMIM:217000
+von Willebrand	D014842
+type IID von Willebrand disease	D056728
+von Willebrand	D014842
+type IID von Willebrand disease	D056728
+type IID von Willebrand disease	D056728
+Prader-Willi syndrome	D011218
+Prader-Willi syndrome	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+chromosomal abnormalities	D002869
+Ataxia-telangiectasia	D001260
+autosomal recessive disorder	D030342
+ataxia-telangiectasia	D001260
+A-T	D001260
+cerebellar degeneration	D013132
+immunodeficiency	D007153
+cancer predisposition	D009369
+A-T	D001260
+cancer-prone	D009369
+A-T	D001260
+A-T	D001260
+A-T	D001260
+Myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+multisystemic disease	D004194
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+myopathic	D009135
+DM	D009223
+DM	D009223
+myotonic dystrophy	D009223
+DM	D009223
+myotonic dystrophy	D009223
+McLeod syndrome	OMIM:300842
+McLeod syndrome	OMIM:300842
+X-linked multisystem disorder	D040181
+McLeod	OMIM:300842
+McLeod	OMIM:300842
+McLeod	OMIM:300842
+McLeod syndrome	OMIM:300842
+very long chain acyl-CoA dehydrogenase deficiency	C536353
+Very long chain acyl-CoA dehydrogenase (VLCAD) deficiency	C536353
+VLCAD deficiency	C536353
+ataxia-telangiectasia	D001260
+ataxia-telangiectasia	D001260
+A-T	D001260
+A-T	D001260
+A-T	D001260
+cerebellar ataxia	D002524
+A-T	D001260
+A-T	D001260
+Emery-Dreifuss muscular dystrophy	D020389
+Emery-Dreifuss muscular dystrophy	D020389
+EDMD	D020389
+cardiac defects	D006330
+EDMD	D020389
+EDMD	D020389
+EDMD	D020389
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+neuritic degeneration	D009410
+HD	D006816
+HD	D006816
+retinitis pigmentosa	D012174
+pattern dystrophy	D008268
+fundus flavimaculatus	C535804
+autosomal dominant retinitis pigmentosa	D012174
+macular dystrophy	D008268
+retinitis punctata albescens	OMIM:136880
+retinitis pigmentosa	D012174
+pattern macular dystrophy	D008268
+macular degeneration	D008268
+fundus flavimaculatus	C535804
+macular degeneration	D008268
+Pericentral scotomas	D012607
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+HD	D006816
+disorder of inappropriate apoptosis	D004194
+eye anomalies	D005124
+ocular anomalies	D005124
+aniridia	D015783
+Peters anomaly	C537884
+corneal dystrophy	D003317
+congenital cataract	D002386
+foveal hypoplasia	OMIM:136520
+Peters anomaly	C537884
+congenital cataract	D002386
+Axenfeldt anomaly	C535679
+foveal hypoplasia	OMIM:136520
+Huntington disease	D006816
+HD	D006816
+breast and ovarian cancer	D061325
+breast and ovarian cancer	D061325
+late-infantile metachromatic leukodystrophy	D007966
+late-infantile metachromatic leukodystrophy	D007966
+MLD	D007966
+adult MLD	D007966
+late-infantile type of MLD	D007966
+Prader-Willi syndrome	D011218
+PWS	D011218
+neurogenetic disease	D020271
+infantile hypotonia	D009123
+gonadal hypoplasia	D006058
+hyperphagia	D006963
+obesity	D009765
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+PWS	D011218
+galactosemia	D005693
+Galactosemia	D005693
+autosomal recessive disorder of human galactose metabolism	D005693
+deficiency of the enzyme galactose-1-phosphate uridyl transferase	D005693
+galactosemia	D005693
+galactosemia	D005693
+galactosemia	D005693
+adrenoleukodystrophy	D000326
+adrenoleukodystrophy	D000326
+ALD	D000326
+dying-back axonopathy	D016472
+ALD	D000326
+ALD	D000326
+spinal SEP abnormalities	D016472
+spinal abnormalities	D016472
+inflammatory brain lesions	D004660
+non-inherited breast carcinomas	D001943
+tumour	D009369
+hereditary breast and ovarian cancer	D061325
+non-familial cancers	D009369
+sporadic cancers	D009369
+non-familial breast and ovarian cancers	D001943|D010051
+breast malignancies	D001943
+invasive lobular cancers	D018275
+low-grade ductal carcinomas	D044584
+ductal carcinomas	D044584
+sporadic breast cancers	D001943
+Sjogren-Larsson syndrome	D016111
+Sjogren-Larsson syndrome	D016111
+SLS	D016111
+autosomal recessive disorder	D030342
+ichthyosis	D007057
+mental retardation	D008607
+spasticity	D009128
+deficient activity of fatty aldehyde dehydrogenase	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+SLS	D016111
+Severe-glucose-6-phosphate dehydrogenase (G6PD) deficiency	D005955
+hemolytic anemia	D000743
+granulocyte dysfunction	D007960
+G6PD deficiency	D005955
+congenital nonspherocytic hemolytic anemia	D000746
+CNSHA	D000746
+CNSHA	D000746
+deficiency of G6PD	D005955
+anterior segment malformations	C537775
+Peters' anomaly	C537884
+aniridia	D015783
+anterior segment malformations	C537775
+Peters anomaly	C537884
+Peters anomaly	C537884
+anterior segment malformations	C537775
+Peters anomaly	C537884
+Peters anomaly	C537884
+anterior segment anomalies	C537775
+hereditary prostate cancer	C537243
+prostate cancer	D011471
+Prostate cancer	D011471
+prostate cancer	D011471
+hereditary prostate cancer	C537243
+HPC	C537243
+prostate cancer	D011471
+myotonic dystrophy	D009223
+myotonic dystrophy	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+DM	D009223
+Huntington disease	D006816
+HD	D006816
+Huntington disease	D006816
+HD	D006816
+HD	D006816
+familial gastric cancer	D013274
+colorectal cancer	D015179
+familial gastric cancer	D013274
+Familial gastric cancer	D013274
+gastric cancer	D013274
+familial gastric cancer	D013274
+gastric cancer	D013274
+gastric cancer	D013274
+gastric and colorectal cancer	D015179|D013274
+gastric cancer	D013274
+colorectal cancer	D015179
+familial gastric cancer	D013274
+gastric cancers	D013274
+colorectal and other cancers	D015179|D009369
+colorectal cancer	D015179
+gastric and colorectal cancers	D015179|D013274
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+DMD	D020388
+Duchenne muscular dystrophy	D020388
+Duchenne muscular dystrophy	D020388
+dystrophic	D020388
+Duchenne muscular dystrophy	D020388
+DMD	D020388
+mental retardation	D008607
+DMD	D020388
+peroxisomal disorders	D018901
+peroxisomal deficiency disorders	D018901
+PTS1 protein-import defect	OMIM:202370|OMIM:214100
+neonatal adrenoleukodystrophy	OMIM:202370
+Zellweger syndrome	D015211
+peroxisomal disorder	D018901
+protein-import deficiency	D008661
+peroxisomal disorders	D018901
+X-linked spastic paraplegia	OMIM:312920
+Pelizaeus-Merzbacher disease	OMIM:312080
+allelic disorders	D030342
+X-linked spastic paraplegia	OMIM:312920
+SPG	OMIM:312920
+X-linked dysmyelinating disorder	D020279
+Pelizaeus-Merzbacher disease	OMIM:312080
+PMD	OMIM:312080
+PMD	OMIM:312080
+allelic disorders	D030342
